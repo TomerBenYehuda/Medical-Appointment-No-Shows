@@ -1,0 +1,1739 @@
+city,city_ascii,province_id,province_name
+Toronto,Toronto,ON,Ontario
+Montréal,Montreal,QC,Quebec
+Vancouver,Vancouver,BC,British Columbia
+Calgary,Calgary,AB,Alberta
+Edmonton,Edmonton,AB,Alberta
+Ottawa,Ottawa,ON,Ontario
+Mississauga,Mississauga,ON,Ontario
+Winnipeg,Winnipeg,MB,Manitoba
+Quebec City,Quebec City,QC,Quebec
+Hamilton,Hamilton,ON,Ontario
+Brampton,Brampton,ON,Ontario
+Surrey,Surrey,BC,British Columbia
+Kitchener,Kitchener,ON,Ontario
+Laval,Laval,QC,Quebec
+Halifax,Halifax,NS,Nova Scotia
+London,London,ON,Ontario
+Victoria,Victoria,BC,British Columbia
+Markham,Markham,ON,Ontario
+St. Catharines,St. Catharines,ON,Ontario
+Niagara Falls,Niagara Falls,ON,Ontario
+Vaughan,Vaughan,ON,Ontario
+Gatineau,Gatineau,QC,Quebec
+Windsor,Windsor,ON,Ontario
+Saskatoon,Saskatoon,SK,Saskatchewan
+Longueuil,Longueuil,QC,Quebec
+Burnaby,Burnaby,BC,British Columbia
+Regina,Regina,SK,Saskatchewan
+Richmond,Richmond,BC,British Columbia
+Richmond Hill,Richmond Hill,ON,Ontario
+Oakville,Oakville,ON,Ontario
+Burlington,Burlington,ON,Ontario
+Barrie,Barrie,ON,Ontario
+Oshawa,Oshawa,ON,Ontario
+Sherbrooke,Sherbrooke,QC,Quebec
+Saguenay,Saguenay,QC,Quebec
+Lévis,Levis,QC,Quebec
+Kelowna,Kelowna,BC,British Columbia
+Abbotsford,Abbotsford,BC,British Columbia
+Coquitlam,Coquitlam,BC,British Columbia
+Trois-Rivières,Trois-Rivieres,QC,Quebec
+Guelph,Guelph,ON,Ontario
+Cambridge,Cambridge,ON,Ontario
+Whitby,Whitby,ON,Ontario
+Ajax,Ajax,ON,Ontario
+Langley,Langley,BC,British Columbia
+Saanich,Saanich,BC,British Columbia
+Terrebonne,Terrebonne,QC,Quebec
+Milton,Milton,ON,Ontario
+St. John's,St. John's,NL,Newfoundland and Labrador
+Moncton,Moncton,NB,New Brunswick
+Thunder Bay,Thunder Bay,ON,Ontario
+Dieppe,Dieppe,NB,New Brunswick
+Waterloo,Waterloo,ON,Ontario
+Delta,Delta,BC,British Columbia
+Chatham,Chatham,ON,Ontario
+Red Deer,Red Deer,AB,Alberta
+Kamloops,Kamloops,BC,British Columbia
+Brantford,Brantford,ON,Ontario
+Cape Breton,Cape Breton,NS,Nova Scotia
+Lethbridge,Lethbridge,AB,Alberta
+Saint-Jean-sur-Richelieu,Saint-Jean-sur-Richelieu,QC,Quebec
+Clarington,Clarington,ON,Ontario
+Pickering,Pickering,ON,Ontario
+Nanaimo,Nanaimo,BC,British Columbia
+Sudbury,Sudbury,ON,Ontario
+North Vancouver,North Vancouver,BC,British Columbia
+Brossard,Brossard,QC,Quebec
+Repentigny,Repentigny,QC,Quebec
+Newmarket,Newmarket,ON,Ontario
+Chilliwack,Chilliwack,BC,British Columbia
+White Rock,White Rock,BC,British Columbia
+Maple Ridge,Maple Ridge,BC,British Columbia
+Peterborough,Peterborough,ON,Ontario
+Kawartha Lakes,Kawartha Lakes,ON,Ontario
+Prince George,Prince George,BC,British Columbia
+Sault Ste. Marie,Sault Ste. Marie,ON,Ontario
+Sarnia,Sarnia,ON,Ontario
+Wood Buffalo,Wood Buffalo,AB,Alberta
+New Westminster,New Westminster,BC,British Columbia
+Châteauguay,Chateauguay,QC,Quebec
+Saint-Jérôme,Saint-Jerome,QC,Quebec
+Drummondville,Drummondville,QC,Quebec
+Saint John,Saint John,NB,New Brunswick
+Caledon,Caledon,ON,Ontario
+St. Albert,St. Albert,AB,Alberta
+Granby,Granby,QC,Quebec
+Medicine Hat,Medicine Hat,AB,Alberta
+Grande Prairie,Grande Prairie,AB,Alberta
+St. Thomas,St. Thomas,ON,Ontario
+Airdrie,Airdrie,AB,Alberta
+Halton Hills,Halton Hills,ON,Ontario
+Saint-Hyacinthe,Saint-Hyacinthe,QC,Quebec
+Lac-Brome,Lac-Brome,QC,Quebec
+Port Coquitlam,Port Coquitlam,BC,British Columbia
+Fredericton,Fredericton,NB,New Brunswick
+Blainville,Blainville,QC,Quebec
+Aurora,Aurora,ON,Ontario
+Welland,Welland,ON,Ontario
+North Bay,North Bay,ON,Ontario
+Beloeil,Beloeil,QC,Quebec
+Belleville,Belleville,ON,Ontario
+Mirabel,Mirabel,QC,Quebec
+Shawinigan,Shawinigan,QC,Quebec
+Dollard-des-Ormeaux,Dollard-des-Ormeaux,QC,Quebec
+Brandon,Brandon,MB,Manitoba
+Rimouski,Rimouski,QC,Quebec
+Cornwall,Cornwall,ON,Ontario
+Stouffville,Stouffville,ON,Ontario
+Georgina,Georgina,ON,Ontario
+Victoriaville,Victoriaville,QC,Quebec
+Vernon,Vernon,BC,British Columbia
+Duncan,Duncan,BC,British Columbia
+Saint-Eustache,Saint-Eustache,QC,Quebec
+Quinte West,Quinte West,ON,Ontario
+Charlottetown,Charlottetown,PE,Prince Edward Island
+Mascouche,Mascouche,QC,Quebec
+West Vancouver,West Vancouver,BC,British Columbia
+Salaberry-de-Valleyfield,Salaberry-de-Valleyfield,QC,Quebec
+Rouyn-Noranda,Rouyn-Noranda,QC,Quebec
+Timmins,Timmins,ON,Ontario
+Sorel-Tracy,Sorel-Tracy,QC,Quebec
+New Tecumseth,New Tecumseth,ON,Ontario
+Woodstock,Woodstock,ON,Ontario
+Boucherville,Boucherville,QC,Quebec
+Mission,Mission,BC,British Columbia
+Vaudreuil-Dorion,Vaudreuil-Dorion,QC,Quebec
+Brant,Brant,ON,Ontario
+Lakeshore,Lakeshore,ON,Ontario
+Innisfil,Innisfil,ON,Ontario
+Prince Albert,Prince Albert,SK,Saskatchewan
+Langford Station,Langford Station,BC,British Columbia
+Bradford West Gwillimbury,Bradford West Gwillimbury,ON,Ontario
+Campbell River,Campbell River,BC,British Columbia
+Spruce Grove,Spruce Grove,AB,Alberta
+Moose Jaw,Moose Jaw,SK,Saskatchewan
+Penticton,Penticton,BC,British Columbia
+Port Moody,Port Moody,BC,British Columbia
+Leamington,Leamington,ON,Ontario
+East Kelowna,East Kelowna,BC,British Columbia
+Côte-Saint-Luc,Cote-Saint-Luc,QC,Quebec
+Val-d’Or,Val-d'Or,QC,Quebec
+Owen Sound,Owen Sound,ON,Ontario
+Stratford,Stratford,ON,Ontario
+Lloydminster,Lloydminster,SK,Saskatchewan
+Pointe-Claire,Pointe-Claire,QC,Quebec
+Orillia,Orillia,ON,Ontario
+Alma,Alma,QC,Quebec
+Orangeville,Orangeville,ON,Ontario
+Fort Erie,Fort Erie,ON,Ontario
+LaSalle,LaSalle,ON,Ontario
+Sainte-Julie,Sainte-Julie,QC,Quebec
+Leduc,Leduc,AB,Alberta
+North Cowichan,North Cowichan,BC,British Columbia
+Chambly,Chambly,QC,Quebec
+Okotoks,Okotoks,AB,Alberta
+Sept-Îles,Sept-Iles,QC,Quebec
+Centre Wellington,Centre Wellington,ON,Ontario
+Saint-Constant,Saint-Constant,QC,Quebec
+Grimsby,Grimsby,ON,Ontario
+Boisbriand,Boisbriand,QC,Quebec
+Conception Bay South,Conception Bay South,NL,Newfoundland and Labrador
+Saint-Bruno-de-Montarville,Saint-Bruno-de-Montarville,QC,Quebec
+Sainte-Thérèse,Sainte-Therese,QC,Quebec
+Cochrane,Cochrane,AB,Alberta
+Thetford Mines,Thetford Mines,QC,Quebec
+Courtenay,Courtenay,BC,British Columbia
+Magog,Magog,QC,Quebec
+Whitehorse,Whitehorse,YT,Yukon
+Woolwich,Woolwich,ON,Ontario
+Clarence-Rockland,Clarence-Rockland,ON,Ontario
+Fort Saskatchewan,Fort Saskatchewan,AB,Alberta
+East Gwillimbury,East Gwillimbury,ON,Ontario
+Lincoln,Lincoln,ON,Ontario
+La Prairie,La Prairie,QC,Quebec
+Tecumseh,Tecumseh,ON,Ontario
+Mount Pearl Park,Mount Pearl Park,NL,Newfoundland and Labrador
+Amherstburg,Amherstburg,ON,Ontario
+Saint-Lambert,Saint-Lambert,QC,Quebec
+Brockville,Brockville,ON,Ontario
+Collingwood,Collingwood,ON,Ontario
+Scugog,Scugog,ON,Ontario
+Kingsville,Kingsville,ON,Ontario
+Baie-Comeau,Baie-Comeau,QC,Quebec
+Paradise,Paradise,NL,Newfoundland and Labrador
+Uxbridge,Uxbridge,ON,Ontario
+Essa,Essa,ON,Ontario
+Candiac,Candiac,QC,Quebec
+Oro-Medonte,Oro-Medonte,ON,Ontario
+Varennes,Varennes,QC,Quebec
+Strathroy-Caradoc,Strathroy-Caradoc,ON,Ontario
+Wasaga Beach,Wasaga Beach,ON,Ontario
+New Glasgow,New Glasgow,NS,Nova Scotia
+Wilmot,Wilmot,ON,Ontario
+Essex,Essex,ON,Ontario
+Fort St. John,Fort St. John,BC,British Columbia
+Kirkland,Kirkland,QC,Quebec
+L’Assomption,L'Assomption,QC,Quebec
+Westmount,Westmount,QC,Quebec
+Saint-Lazare,Saint-Lazare,QC,Quebec
+Chestermere,Chestermere,AB,Alberta
+Huntsville,Huntsville,ON,Ontario
+Corner Brook,Corner Brook,NL,Newfoundland and Labrador
+Riverview,Riverview,NB,New Brunswick
+Lloydminster,Lloydminster,AB,Alberta
+Joliette,Joliette,QC,Quebec
+Yellowknife,Yellowknife,NT,Northwest Territories
+Squamish,Squamish,BC,British Columbia
+Mont-Royal,Mont-Royal,QC,Quebec
+Rivière-du-Loup,Riviere-du-Loup,QC,Quebec
+Cobourg,Cobourg,ON,Ontario
+Cranbrook,Cranbrook,BC,British Columbia
+Beaconsfield,Beaconsfield,QC,Quebec
+Springwater,Springwater,ON,Ontario
+Dorval,Dorval,QC,Quebec
+Thorold,Thorold,ON,Ontario
+Camrose,Camrose,AB,Alberta
+South Frontenac,South Frontenac,ON,Ontario
+Pitt Meadows,Pitt Meadows,BC,British Columbia
+Port Colborne,Port Colborne,ON,Ontario
+Quispamsis,Quispamsis,NB,New Brunswick
+Mont-Saint-Hilaire,Mont-Saint-Hilaire,QC,Quebec
+Bathurst,Bathurst,NB,New Brunswick
+Saint-Augustin-de-Desmaures,Saint-Augustin-de-Desmaures,QC,Quebec
+Oak Bay,Oak Bay,BC,British Columbia
+Sainte-Marthe-sur-le-Lac,Sainte-Marthe-sur-le-Lac,QC,Quebec
+Salmon Arm,Salmon Arm,BC,British Columbia
+Port Alberni,Port Alberni,BC,British Columbia
+Esquimalt,Esquimalt,BC,British Columbia
+Deux-Montagnes,Deux-Montagnes,QC,Quebec
+Miramichi,Miramichi,NB,New Brunswick
+Niagara-on-the-Lake,Niagara-on-the-Lake,ON,Ontario
+Saint-Lin--Laurentides,Saint-Lin--Laurentides,QC,Quebec
+Beaumont,Beaumont,AB,Alberta
+Middlesex Centre,Middlesex Centre,ON,Ontario
+Inverness,Inverness,NS,Nova Scotia
+Stony Plain,Stony Plain,AB,Alberta
+Petawawa,Petawawa,ON,Ontario
+Pelham,Pelham,ON,Ontario
+Selwyn,Selwyn,ON,Ontario
+Loyalist,Loyalist,ON,Ontario
+Midland,Midland,ON,Ontario
+Colwood,Colwood,BC,British Columbia
+Central Saanich,Central Saanich,BC,British Columbia
+Sainte-Catherine,Sainte-Catherine,QC,Quebec
+Port Hope,Port Hope,ON,Ontario
+L’Ancienne-Lorette,L'Ancienne-Lorette,QC,Quebec
+Saint-Basile-le-Grand,Saint-Basile-le-Grand,QC,Quebec
+Swift Current,Swift Current,SK,Saskatchewan
+Edmundston,Edmundston,NB,New Brunswick
+Russell,Russell,ON,Ontario
+North Grenville,North Grenville,ON,Ontario
+Yorkton,Yorkton,SK,Saskatchewan
+Tracadie,Tracadie,NB,New Brunswick
+Bracebridge,Bracebridge,ON,Ontario
+Greater Napanee,Greater Napanee,ON,Ontario
+Tillsonburg,Tillsonburg,ON,Ontario
+Steinbach,Steinbach,MB,Manitoba
+Hanover,Hanover,MB,Manitoba
+Terrace,Terrace,BC,British Columbia
+Springfield,Springfield,MB,Manitoba
+Gaspé,Gaspe,QC,Quebec
+Kenora,Kenora,ON,Ontario
+Cold Lake,Cold Lake,AB,Alberta
+Summerside,Summerside,PE,Prince Edward Island
+Comox,Comox,BC,British Columbia
+Sylvan Lake,Sylvan Lake,AB,Alberta
+Pincourt,Pincourt,QC,Quebec
+West Lincoln,West Lincoln,ON,Ontario
+Matane,Matane,QC,Quebec
+Brooks,Brooks,AB,Alberta
+Sainte-Anne-des-Plaines,Sainte-Anne-des-Plaines,QC,Quebec
+West Nipissing / Nipissing Ouest,West Nipissing / Nipissing Ouest,ON,Ontario
+Rosemère,Rosemere,QC,Quebec
+Mistassini,Mistassini,QC,Quebec
+Grand Falls,Grand Falls,NL,Newfoundland and Labrador
+Clearview,Clearview,ON,Ontario
+St. Clair,St. Clair,ON,Ontario
+Canmore,Canmore,AB,Alberta
+North Battleford,North Battleford,SK,Saskatchewan
+Pembroke,Pembroke,ON,Ontario
+Mont-Laurier,Mont-Laurier,QC,Quebec
+Strathmore,Strathmore,AB,Alberta
+Saugeen Shores,Saugeen Shores,ON,Ontario
+Thompson,Thompson,MB,Manitoba
+Lavaltrie,Lavaltrie,QC,Quebec
+High River,High River,AB,Alberta
+Severn,Severn,ON,Ontario
+Sainte-Sophie,Sainte-Sophie,QC,Quebec
+Saint-Charles-Borromée,Saint-Charles-Borromee,QC,Quebec
+Portage La Prairie,Portage La Prairie,MB,Manitoba
+Thames Centre,Thames Centre,ON,Ontario
+Mississippi Mills,Mississippi Mills,ON,Ontario
+Powell River,Powell River,BC,British Columbia
+South Glengarry,South Glengarry,ON,Ontario
+North Perth,North Perth,ON,Ontario
+Mercier,Mercier,QC,Quebec
+South Stormont,South Stormont,ON,Ontario
+Saint-Colomban,Saint-Colomban,QC,Quebec
+Lacombe,Lacombe,AB,Alberta
+Sooke,Sooke,BC,British Columbia
+Dawson Creek,Dawson Creek,BC,British Columbia
+Lake Country,Lake Country,BC,British Columbia
+Trent Hills,Trent Hills,ON,Ontario
+Sainte-Marie,Sainte-Marie,QC,Quebec
+Guelph/Eramosa,Guelph/Eramosa,ON,Ontario
+Truro,Truro,NS,Nova Scotia
+Amos,Amos,QC,Quebec
+The Nation / La Nation,The Nation / La Nation,ON,Ontario
+Ingersoll,Ingersoll,ON,Ontario
+Winkler,Winkler,MB,Manitoba
+Wetaskiwin,Wetaskiwin,AB,Alberta
+Central Elgin,Central Elgin,ON,Ontario
+Lachute,Lachute,QC,Quebec
+West Grey,West Grey,ON,Ontario
+Parksville,Parksville,BC,British Columbia
+Cowansville,Cowansville,QC,Quebec
+Bécancour,Becancour,QC,Quebec
+Gravenhurst,Gravenhurst,ON,Ontario
+Perth East,Perth East,ON,Ontario
+Prince Rupert,Prince Rupert,BC,British Columbia
+Prévost,Prevost,QC,Quebec
+Sainte-Adèle,Sainte-Adele,QC,Quebec
+Kentville,Kentville,NS,Nova Scotia
+Beauharnois,Beauharnois,QC,Quebec
+Les Îles-de-la-Madeleine,Les Iles-de-la-Madeleine,QC,Quebec
+Wellington North,Wellington North,ON,Ontario
+St. Andrews,St. Andrews,MB,Manitoba
+Carleton Place,Carleton Place,ON,Ontario
+Whistler,Whistler,BC,British Columbia
+Brighton,Brighton,ON,Ontario
+Tiny,Tiny,ON,Ontario
+Gander,Gander,NL,Newfoundland and Labrador
+Sidney,Sidney,BC,British Columbia
+Rothesay,Rothesay,NB,New Brunswick
+Brock,Brock,ON,Ontario
+Summerland,Summerland,BC,British Columbia
+Val-des-Monts,Val-des-Monts,QC,Quebec
+Taché,Tache,MB,Manitoba
+Montmagny,Montmagny,QC,Quebec
+Erin,Erin,ON,Ontario
+Kincardine,Kincardine,ON,Ontario
+North Dundas,North Dundas,ON,Ontario
+Wellesley,Wellesley,ON,Ontario
+Estevan,Estevan,SK,Saskatchewan
+North Saanich,North Saanich,BC,British Columbia
+Warman,Warman,SK,Saskatchewan
+La Tuque,La Tuque,QC,Quebec
+Norwich,Norwich,ON,Ontario
+Meaford,Meaford,ON,Ontario
+Adjala-Tosorontio,Adjala-Tosorontio,ON,Ontario
+Hamilton Township,Hamilton Township,ON,Ontario
+St. Clements,St. Clements,MB,Manitoba
+Saint-Amable,Saint-Amable,QC,Quebec
+Weyburn,Weyburn,SK,Saskatchewan
+South Dundas,South Dundas,ON,Ontario
+L’Île-Perrot,L'Ile-Perrot,QC,Quebec
+Notre-Dame-de-l'Île-Perrot,Notre-Dame-de-l'Ile-Perrot,QC,Quebec
+Williams Lake,Williams Lake,BC,British Columbia
+Elliot Lake,Elliot Lake,ON,Ontario
+Cantley,Cantley,QC,Quebec
+Nelson,Nelson,BC,British Columbia
+Lambton Shores,Lambton Shores,ON,Ontario
+Mapleton,Mapleton,ON,Ontario
+Georgian Bluffs,Georgian Bluffs,ON,Ontario
+Rawdon,Rawdon,QC,Quebec
+Campbellton,Campbellton,NB,New Brunswick
+View Royal,View Royal,BC,British Columbia
+Coldstream,Coldstream,BC,British Columbia
+Chester,Chester,NS,Nova Scotia
+Queens,Queens,NS,Nova Scotia
+Selkirk,Selkirk,MB,Manitoba
+Saint-Félicien,Saint-Felicien,QC,Quebec
+Hawkesbury,Hawkesbury,ON,Ontario
+Roberval,Roberval,QC,Quebec
+Sainte-Agathe-des-Monts,Sainte-Agathe-des-Monts,QC,Quebec
+North Dumfries,North Dumfries,ON,Ontario
+Rideau Lakes,Rideau Lakes,ON,Ontario
+Sechelt,Sechelt,BC,British Columbia
+North Glengarry,North Glengarry,ON,Ontario
+South Huron,South Huron,ON,Ontario
+Marieville,Marieville,QC,Quebec
+Tay,Tay,ON,Ontario
+Temiskaming Shores,Temiskaming Shores,ON,Ontario
+Hinton,Hinton,AB,Alberta
+Saint-Sauveur,Saint-Sauveur,QC,Quebec
+Quesnel,Quesnel,BC,British Columbia
+Elizabethtown-Kitley,Elizabethtown-Kitley,ON,Ontario
+Morinville,Morinville,AB,Alberta
+Grey Highlands,Grey Highlands,ON,Ontario
+Stratford,Stratford,PE,Prince Edward Island
+Alfred and Plantagenet,Alfred and Plantagenet,ON,Ontario
+Mont-Tremblant,Mont-Tremblant,QC,Quebec
+Martensville,Martensville,SK,Saskatchewan
+Saint-Raymond,Saint-Raymond,QC,Quebec
+Amherst,Amherst,NS,Nova Scotia
+Ramara,Ramara,ON,Ontario
+Bois-des-Filion,Bois-des-Filion,QC,Quebec
+Leeds and the Thousand Islands,Leeds and the Thousand Islands,ON,Ontario
+Carignan,Carignan,QC,Quebec
+Brockton,Brockton,ON,Ontario
+Laurentian Valley,Laurentian Valley,ON,Ontario
+East St. Paul,East St. Paul,MB,Manitoba
+Lorraine,Lorraine,QC,Quebec
+Sainte-Julienne,Sainte-Julienne,QC,Quebec
+Blackfalds,Blackfalds,AB,Alberta
+Malahide,Malahide,ON,Ontario
+Oromocto,Oromocto,NB,New Brunswick
+Olds,Olds,AB,Alberta
+Huron East,Huron East,ON,Ontario
+Stanley,Stanley,MB,Manitoba
+Penetanguishene,Penetanguishene,ON,Ontario
+Qualicum Beach,Qualicum Beach,BC,British Columbia
+Notre-Dame-des-Prairies,Notre-Dame-des-Prairies,QC,Quebec
+West Perth,West Perth,ON,Ontario
+Cavan Monaghan,Cavan Monaghan,ON,Ontario
+Arnprior,Arnprior,ON,Ontario
+Smiths Falls,Smiths Falls,ON,Ontario
+Pont-Rouge,Pont-Rouge,QC,Quebec
+Champlain,Champlain,ON,Ontario
+Coaticook,Coaticook,QC,Quebec
+Minto,Minto,ON,Ontario
+Morden,Morden,MB,Manitoba
+Mono,Mono,ON,Ontario
+Corman Park No. 344,Corman Park No. 344,SK,Saskatchewan
+Ladysmith,Ladysmith,BC,British Columbia
+Bridgewater,Bridgewater,NS,Nova Scotia
+Dauphin,Dauphin,MB,Manitoba
+Otterburn Park,Otterburn Park,QC,Quebec
+Taber,Taber,AB,Alberta
+South Bruce Peninsula,South Bruce Peninsula,ON,Ontario
+Edson,Edson,AB,Alberta
+Farnham,Farnham,QC,Quebec
+Kapuskasing,Kapuskasing,ON,Ontario
+La Malbaie,La Malbaie,QC,Quebec
+Renfrew,Renfrew,ON,Ontario
+Coaldale,Coaldale,AB,Alberta
+Portugal Cove-St. Philip's,Portugal Cove-St. Philip's,NL,Newfoundland and Labrador
+Zorra,Zorra,ON,Ontario
+Kitimat,Kitimat,BC,British Columbia
+Shelburne,Shelburne,ON,Ontario
+Happy Valley,Happy Valley,NL,Newfoundland and Labrador
+Saint-Hippolyte,Saint-Hippolyte,QC,Quebec
+Castlegar,Castlegar,BC,British Columbia
+Church Point,Church Point,NS,Nova Scotia
+Drumheller,Drumheller,AB,Alberta
+Kirkland Lake,Kirkland Lake,ON,Ontario
+Argyle,Argyle,NS,Nova Scotia
+Torbay,Torbay,NL,Newfoundland and Labrador
+La Pêche,La Peche,QC,Quebec
+Banff,Banff,AB,Alberta
+Innisfail,Innisfail,AB,Alberta
+Nicolet,Nicolet,QC,Quebec
+Rockwood,Rockwood,MB,Manitoba
+Drummond/North Elmsley,Drummond/North Elmsley,ON,Ontario
+Dryden,Dryden,ON,Ontario
+Iqaluit,Iqaluit,NU,Nunavut
+Fort Frances,Fort Frances,ON,Ontario
+La Sarre,La Sarre,QC,Quebec
+Trail,Trail,BC,British Columbia
+Chandler,Chandler,QC,Quebec
+Stone Mills,Stone Mills,ON,Ontario
+Hanover,Hanover,ON,Ontario
+South-West Oxford,South-West Oxford,ON,Ontario
+Acton Vale,Acton Vale,QC,Quebec
+Bromont,Bromont,QC,Quebec
+Beckwith,Beckwith,ON,Ontario
+Goderich,Goderich,ON,Ontario
+Plympton-Wyoming,Plympton-Wyoming,ON,Ontario
+Central Huron,Central Huron,ON,Ontario
+Rigaud,Rigaud,QC,Quebec
+Louiseville,Louiseville,QC,Quebec
+Chibougamau,Chibougamau,QC,Quebec
+Aylmer,Aylmer,ON,Ontario
+Delson,Delson,QC,Quebec
+Kimberley,Kimberley,BC,British Columbia
+Blandford-Blenheim,Blandford-Blenheim,ON,Ontario
+Bayham,Bayham,ON,Ontario
+Augusta,Augusta,ON,Ontario
+Puslinch,Puslinch,ON,Ontario
+Beauport,Beauport,QC,Quebec
+Saint-Rémi,Saint-Remi,QC,Quebec
+St. Marys,St. Marys,ON,Ontario
+Drayton Valley,Drayton Valley,AB,Alberta
+Ponoka,Ponoka,AB,Alberta
+Labrador City,Labrador City,NL,Newfoundland and Labrador
+Donnacona,Donnacona,QC,Quebec
+Southgate,Southgate,ON,Ontario
+McNab/Braeside,McNab/Braeside,ON,Ontario
+Macdonald,Macdonald,MB,Manitoba
+Hampstead,Hampstead,QC,Quebec
+Baie-Saint-Paul,Baie-Saint-Paul,QC,Quebec
+Merritt,Merritt,BC,British Columbia
+Bluewater,Bluewater,ON,Ontario
+East Zorra-Tavistock,East Zorra-Tavistock,ON,Ontario
+Brownsburg,Brownsburg,QC,Quebec
+Stoneham-et-Tewkesbury,Stoneham-et-Tewkesbury,QC,Quebec
+Asbestos,Asbestos,QC,Quebec
+Huron-Kinloss,Huron-Kinloss,ON,Ontario
+Coteau-du-Lac,Coteau-du-Lac,QC,Quebec
+The Blue Mountains,The Blue Mountains,ON,Ontario
+Whitewater Region,Whitewater Region,ON,Ontario
+Edwardsburgh/Cardinal,Edwardsburgh/Cardinal,ON,Ontario
+Sainte-Anne-des-Monts,Sainte-Anne-des-Monts,QC,Quebec
+Old Chelsea,Old Chelsea,QC,Quebec
+North Stormont,North Stormont,ON,Ontario
+Alnwick/Haldimand,Alnwick/Haldimand,ON,Ontario
+Peace River,Peace River,AB,Alberta
+Arran-Elderslie,Arran-Elderslie,ON,Ontario
+Saint-Zotique,Saint-Zotique,QC,Quebec
+Val-Shefford,Val-Shefford,QC,Quebec
+Douro-Dummer,Douro-Dummer,ON,Ontario
+Plessisville,Plessisville,QC,Quebec
+Ritchot,Ritchot,MB,Manitoba
+Otonabee-South Monaghan,Otonabee-South Monaghan,ON,Ontario
+Shediac,Shediac,NB,New Brunswick
+Slave Lake,Slave Lake,AB,Alberta
+Port-Cartier,Port-Cartier,QC,Quebec
+Saint-Lambert-de-Lauzon,Saint-Lambert-de-Lauzon,QC,Quebec
+Barrington,Barrington,NS,Nova Scotia
+Rocky Mountain House,Rocky Mountain House,AB,Alberta
+Chatsworth,Chatsworth,ON,Ontario
+Stephenville,Stephenville,NL,Newfoundland and Labrador
+Muskoka Falls,Muskoka Falls,ON,Ontario
+Devon,Devon,AB,Alberta
+Yarmouth,Yarmouth,NS,Nova Scotia
+Boischatel,Boischatel,QC,Quebec
+Parry Sound,Parry Sound,ON,Ontario
+Pointe-Calumet,Pointe-Calumet,QC,Quebec
+Beaubassin East / Beaubassin-est,Beaubassin East / Beaubassin-est,NB,New Brunswick
+Wainfleet,Wainfleet,ON,Ontario
+Cramahe,Cramahe,ON,Ontario
+Beauceville,Beauceville,QC,Quebec
+North Middlesex,North Middlesex,ON,Ontario
+Amqui,Amqui,QC,Quebec
+Sainte-Catherine-de-la-Jacques-Cartier,Sainte-Catherine-de-la-Jacques-Cartier,QC,Quebec
+Clarenville,Clarenville,NL,Newfoundland and Labrador
+Mont-Joli,Mont-Joli,QC,Quebec
+Dysart et al,Dysart et al,ON,Ontario
+Wainwright,Wainwright,AB,Alberta
+Contrecoeur,Contrecoeur,QC,Quebec
+Beresford,Beresford,NB,New Brunswick
+Saint-Joseph-du-Lac,Saint-Joseph-du-Lac,QC,Quebec
+Hope,Hope,BC,British Columbia
+Gimli,Gimli,MB,Manitoba
+Douglas,Douglas,NB,New Brunswick
+Saint-Apollinaire,Saint-Apollinaire,QC,Quebec
+Hindon Hill,Hindon Hill,ON,Ontario
+Les Cèdres,Les Cedres,QC,Quebec
+La Broquerie,La Broquerie,MB,Manitoba
+Kent,Kent,BC,British Columbia
+Tweed,Tweed,ON,Ontario
+Saint-Félix-de-Valois,Saint-Felix-de-Valois,QC,Quebec
+Bay Roberts,Bay Roberts,NL,Newfoundland and Labrador
+Melfort,Melfort,SK,Saskatchewan
+Bonnyville,Bonnyville,AB,Alberta
+Stettler,Stettler,AB,Alberta
+Saint-Calixte,Saint-Calixte,QC,Quebec
+Lac-Mégantic,Lac-Megantic,QC,Quebec
+Perth,Perth,ON,Ontario
+Oliver Paipoonge,Oliver Paipoonge,ON,Ontario
+Humboldt,Humboldt,SK,Saskatchewan
+Charlemagne,Charlemagne,QC,Quebec
+Pontiac,Pontiac,QC,Quebec
+St. Paul,St. Paul,AB,Alberta
+Petrolia,Petrolia,ON,Ontario
+Southwest Middlesex,Southwest Middlesex,ON,Ontario
+Front of Yonge,Front of Yonge,ON,Ontario
+Vegreville,Vegreville,AB,Alberta
+Sainte-Brigitte-de-Laval,Sainte-Brigitte-de-Laval,QC,Quebec
+Princeville,Princeville,QC,Quebec
+Verchères,Vercheres,QC,Quebec
+The Pas,The Pas,MB,Manitoba
+Saint-Césaire,Saint-Cesaire,QC,Quebec
+La Ronge,La Ronge,SK,Saskatchewan
+Tay Valley,Tay Valley,ON,Ontario
+South Bruce,South Bruce,ON,Ontario
+McMasterville,McMasterville,QC,Quebec
+Redcliff,Redcliff,AB,Alberta
+Crowsnest Pass,Crowsnest Pass,AB,Alberta
+Saint-Philippe,Saint-Philippe,QC,Quebec
+Richelieu,Richelieu,QC,Quebec
+Notre-Dame-du-Mont-Carmel,Notre-Dame-du-Mont-Carmel,QC,Quebec
+L'Ange-Gardien,L'Ange-Gardien,QC,Quebec
+Sainte-Martine,Sainte-Martine,QC,Quebec
+Saint-Pie,Saint-Pie,QC,Quebec
+Peachland,Peachland,BC,British Columbia
+Ashfield-Colborne-Wawanosh,Ashfield-Colborne-Wawanosh,ON,Ontario
+Trent Lakes,Trent Lakes,ON,Ontario
+Northern Rockies,Northern Rockies,BC,British Columbia
+Cookshire,Cookshire,QC,Quebec
+West St. Paul,West St. Paul,MB,Manitoba
+Windsor,Windsor,QC,Quebec
+L’Epiphanie,L'Epiphanie,QC,Quebec
+Creston,Creston,BC,British Columbia
+Smithers,Smithers,BC,British Columbia
+Cornwall,Cornwall,PE,Prince Edward Island
+Meadow Lake,Meadow Lake,SK,Saskatchewan
+Lanark Highlands,Lanark Highlands,ON,Ontario
+Sackville,Sackville,NB,New Brunswick
+Grand Falls,Grand Falls,NB,New Brunswick
+Cochrane,Cochrane,ON,Ontario
+Marystown,Marystown,NL,Newfoundland and Labrador
+Sioux Lookout,Sioux Lookout,ON,Ontario
+Didsbury,Didsbury,AB,Alberta
+Saint-Honoré,Saint-Honore,QC,Quebec
+Fernie,Fernie,BC,British Columbia
+Deer Lake,Deer Lake,NL,Newfoundland and Labrador
+Woodstock,Woodstock,NB,New Brunswick
+Val-David,Val-David,QC,Quebec
+Flin Flon,Flin Flon,SK,Saskatchewan
+Hudson,Hudson,QC,Quebec
+Gananoque,Gananoque,ON,Ontario
+Brokenhead,Brokenhead,MB,Manitoba
+Saint-Paul,Saint-Paul,QC,Quebec
+Burton,Burton,NB,New Brunswick
+Spallumcheen,Spallumcheen,BC,British Columbia
+Westlock,Westlock,AB,Alberta
+Témiscouata-sur-le-Lac,Temiscouata-sur-le-Lac,QC,Quebec
+Shannon,Shannon,QC,Quebec
+Osoyoos,Osoyoos,BC,British Columbia
+Montréal-Ouest,Montreal-Ouest,QC,Quebec
+Hearst,Hearst,ON,Ontario
+Saint-Henri,Saint-Henri,QC,Quebec
+Ste. Anne,Ste. Anne,MB,Manitoba
+Antigonish,Antigonish,NS,Nova Scotia
+Espanola,Espanola,ON,Ontario
+West Elgin,West Elgin,ON,Ontario
+Flin Flon (Part),Flin Flon (Part),MB,Manitoba
+Grand Bay-Westfield,Grand Bay-Westfield,NB,New Brunswick
+Sainte-Anne-de-Bellevue,Sainte-Anne-de-Bellevue,QC,Quebec
+North Huron,North Huron,ON,Ontario
+Oliver,Oliver,BC,British Columbia
+Saint-Roch-de-l'Achigan,Saint-Roch-de-l'Achigan,QC,Quebec
+Stirling-Rawdon,Stirling-Rawdon,ON,Ontario
+Chisasibi,Chisasibi,QC,Quebec
+Carbonear,Carbonear,NL,Newfoundland and Labrador
+Saint Marys,Saint Marys,NB,New Brunswick
+Chertsey,Chertsey,QC,Quebec
+Armstrong,Armstrong,BC,British Columbia
+Stonewall,Stonewall,MB,Manitoba
+Shippagan,Shippagan,NB,New Brunswick
+Lanoraie,Lanoraie,QC,Quebec
+Memramcook,Memramcook,NB,New Brunswick
+Centre Hastings,Centre Hastings,ON,Ontario
+Warwick,Warwick,QC,Quebec
+East Ferris,East Ferris,ON,Ontario
+Hanwell,Hanwell,NB,New Brunswick
+Saint-Joseph-de-Beauce,Saint-Joseph-de-Beauce,QC,Quebec
+Metchosin,Metchosin,BC,British Columbia
+Lucan Biddulph,Lucan Biddulph,ON,Ontario
+Rivière-Rouge,Riviere-Rouge,QC,Quebec
+Greenstone,Greenstone,ON,Ontario
+Saint-Mathias-sur-Richelieu,Saint-Mathias-sur-Richelieu,QC,Quebec
+Neepawa,Neepawa,MB,Manitoba
+Gibsons,Gibsons,BC,British Columbia
+Kindersley,Kindersley,SK,Saskatchewan
+Jasper,Jasper,AB,Alberta
+Barrhead,Barrhead,AB,Alberta
+Les Coteaux,Les Coteaux,QC,Quebec
+Melville,Melville,SK,Saskatchewan
+Saint-Germain-de-Grantham,Saint-Germain-de-Grantham,QC,Quebec
+Iroquois Falls,Iroquois Falls,ON,Ontario
+Havelock-Belmont-Methuen,Havelock-Belmont-Methuen,ON,Ontario
+Cornwallis,Cornwallis,MB,Manitoba
+Saint-Boniface,Saint-Boniface,QC,Quebec
+Edenwold No. 158,Edenwold No. 158,SK,Saskatchewan
+Coverdale,Coverdale,NB,New Brunswick
+Vanderhoof,Vanderhoof,BC,British Columbia
+Southwold,Southwold,ON,Ontario
+Goulds,Goulds,NL,Newfoundland and Labrador
+Saint Stephen,Saint Stephen,NB,New Brunswick
+Waterloo,Waterloo,QC,Quebec
+Nipawin,Nipawin,SK,Saskatchewan
+Neuville,Neuville,QC,Quebec
+Saint-Cyrille-de-Wendover,Saint-Cyrille-de-Wendover,QC,Quebec
+Central Frontenac,Central Frontenac,ON,Ontario
+Mont-Orford,Mont-Orford,QC,Quebec
+Saint-Jean-de-Matha,Saint-Jean-de-Matha,QC,Quebec
+Seguin,Seguin,ON,Ontario
+Tyendinaga,Tyendinaga,ON,Ontario
+Hampton,Hampton,NB,New Brunswick
+Sussex,Sussex,NB,New Brunswick
+Grand Forks,Grand Forks,BC,British Columbia
+La Pocatière,La Pocatiere,QC,Quebec
+Caraquet,Caraquet,NB,New Brunswick
+Saint-Étienne-des-Grès,Saint-Etienne-des-Gres,QC,Quebec
+Altona,Altona,MB,Manitoba
+Stellarton,Stellarton,NS,Nova Scotia
+Wolfville,Wolfville,NS,Nova Scotia
+New Maryland,New Maryland,NB,New Brunswick
+Port Hardy,Port Hardy,BC,British Columbia
+Saint-Donat,Saint-Donat,QC,Quebec
+Château-Richer,Chateau-Richer,QC,Quebec
+Madawaska Valley,Madawaska Valley,ON,Ontario
+Deep River,Deep River,ON,Ontario
+Asphodel-Norwood,Asphodel-Norwood,ON,Ontario
+Red Lake,Red Lake,ON,Ontario
+Métabetchouan-Lac-à-la-Croix,Metabetchouan-Lac-a-la-Croix,QC,Quebec
+Berthierville,Berthierville,QC,Quebec
+Vermilion,Vermilion,AB,Alberta
+Niverville,Niverville,MB,Manitoba
+Hastings Highlands,Hastings Highlands,ON,Ontario
+Carstairs,Carstairs,AB,Alberta
+Danville,Danville,QC,Quebec
+Channel-Port aux Basques,Channel-Port aux Basques,NL,Newfoundland and Labrador
+Battleford,Battleford,SK,Saskatchewan
+Lac-Etchemin,Lac-Etchemin,QC,Quebec
+Saint-Antonin,Saint-Antonin,QC,Quebec
+Saint-Jacques,Saint-Jacques,QC,Quebec
+Swan River,Swan River,MB,Manitoba
+Sutton,Sutton,QC,Quebec
+Northern Bruce Peninsula,Northern Bruce Peninsula,ON,Ontario
+L’Islet-sur-Mer,L'Islet-sur-Mer,QC,Quebec
+Carleton-sur-Mer,Carleton-sur-Mer,QC,Quebec
+Oka,Oka,QC,Quebec
+Prescott,Prescott,ON,Ontario
+Amaranth,Amaranth,ON,Ontario
+Marmora and Lake,Marmora and Lake,ON,Ontario
+Maniwaki,Maniwaki,QC,Quebec
+Morin-Heights,Morin-Heights,QC,Quebec
+Dundas,Dundas,NB,New Brunswick
+Napierville,Napierville,QC,Quebec
+Crabtree,Crabtree,QC,Quebec
+Bancroft,Bancroft,ON,Ontario
+Saint-Tite,Saint-Tite,QC,Quebec
+Howick,Howick,ON,Ontario
+Dutton/Dunwich,Dutton/Dunwich,ON,Ontario
+Callander,Callander,ON,Ontario
+Simonds,Simonds,NB,New Brunswick
+Baie-d’Urfé,Baie-d'Urfe,QC,Quebec
+New Richmond,New Richmond,QC,Quebec
+Perth South,Perth South,ON,Ontario
+Roxton Pond,Roxton Pond,QC,Quebec
+Sparwood,Sparwood,BC,British Columbia
+Claresholm,Claresholm,AB,Alberta
+Breslau,Breslau,ON,Ontario
+Montague,Montague,ON,Ontario
+Cumberland,Cumberland,BC,British Columbia
+Beaupré,Beaupre,QC,Quebec
+Saint-André-Avellin,Saint-Andre-Avellin,QC,Quebec
+Saint-Ambroise-de-Kildare,Saint-Ambroise-de-Kildare,QC,Quebec
+East Angus,East Angus,QC,Quebec
+Rossland,Rossland,BC,British Columbia
+Mackenzie,Mackenzie,BC,British Columbia
+Golden,Golden,BC,British Columbia
+Raymond,Raymond,AB,Alberta
+Saint-Adolphe-d'Howard,Saint-Adolphe-d'Howard,QC,Quebec
+Warwick,Warwick,ON,Ontario
+Bowen Island,Bowen Island,BC,British Columbia
+Bonnechere Valley,Bonnechere Valley,ON,Ontario
+Windsor,Windsor,NS,Nova Scotia
+Pincher Creek,Pincher Creek,AB,Alberta
+Alnwick,Alnwick,NB,New Brunswick
+Westville,Westville,NS,Nova Scotia
+Fruitvale,Fruitvale,BC,British Columbia
+Pasadena,Pasadena,NL,Newfoundland and Labrador
+Saint-Prosper,Saint-Prosper,QC,Quebec
+Ormstown,Ormstown,QC,Quebec
+Cardston,Cardston,AB,Alberta
+Westbank,Westbank,BC,British Columbia
+De Salaberry,De Salaberry,MB,Manitoba
+Headingley,Headingley,MB,Manitoba
+Grande Cache,Grande Cache,AB,Alberta
+Atholville,Atholville,NB,New Brunswick
+Saint-Agapit,Saint-Agapit,QC,Quebec
+Prince Albert No. 461,Prince Albert No. 461,SK,Saskatchewan
+Casselman,Casselman,ON,Ontario
+Saint-Ambroise,Saint-Ambroise,QC,Quebec
+Hay River,Hay River,NT,Northwest Territories
+Mistissini,Mistissini,QC,Quebec
+Studholm,Studholm,NB,New Brunswick
+Lumby,Lumby,BC,British Columbia
+Saint-Faustin--Lac-Carré,Saint-Faustin--Lac-Carre,QC,Quebec
+Morris-Turnberry,Morris-Turnberry,ON,Ontario
+Placentia,Placentia,NL,Newfoundland and Labrador
+Saint-Pascal,Saint-Pascal,QC,Quebec
+Mulmur,Mulmur,ON,Ontario
+Blind River,Blind River,ON,Ontario
+Dunham,Dunham,QC,Quebec
+Havre-Saint-Pierre,Havre-Saint-Pierre,QC,Quebec
+Saint-Anselme,Saint-Anselme,QC,Quebec
+Trois-Pistoles,Trois-Pistoles,QC,Quebec
+Grande-Rivière,Grande-Riviere,QC,Quebec
+Powassan,Powassan,ON,Ontario
+Malartic,Malartic,QC,Quebec
+Bonavista,Bonavista,NL,Newfoundland and Labrador
+Killarney - Turtle Mountain,Killarney - Turtle Mountain,MB,Manitoba
+Woodlands,Woodlands,MB,Manitoba
+Lewisporte,Lewisporte,NL,Newfoundland and Labrador
+Saint-Denis-de-Brompton,Saint-Denis-de-Brompton,QC,Quebec
+Invermere,Invermere,BC,British Columbia
+Salisbury,Salisbury,NB,New Brunswick
+Bifrost-Riverton,Bifrost-Riverton,MB,Manitoba
+Buckland No. 491,Buckland No. 491,SK,Saskatchewan
+Cartier,Cartier,MB,Manitoba
+Sainte-Anne-des-Lacs,Sainte-Anne-des-Lacs,QC,Quebec
+Highlands East,Highlands East,ON,Ontario
+Alexander,Alexander,MB,Manitoba
+Sainte-Claire,Sainte-Claire,QC,Quebec
+Percé,Perce,QC,Quebec
+Saint-Jean-Port-Joli,Saint-Jean-Port-Joli,QC,Quebec
+East Hawkesbury,East Hawkesbury,ON,Ontario
+Bright,Bright,NB,New Brunswick
+Penhold,Penhold,AB,Alberta
+Saint-André-d'Argenteuil,Saint-Andre-d'Argenteuil,QC,Quebec
+Saint-Côme--Linière,Saint-Come--Liniere,QC,Quebec
+Saint-Sulpice,Saint-Sulpice,QC,Quebec
+Marathon,Marathon,ON,Ontario
+Forestville,Forestville,QC,Quebec
+Inuvik,Inuvik,NT,Northwest Territories
+Richmond,Richmond,QC,Quebec
+Lake Cowichan,Lake Cowichan,BC,British Columbia
+Sables-Spanish Rivers,Sables-Spanish Rivers,ON,Ontario
+Hillsburg-Roblin-Shell River,Hillsburg-Roblin-Shell River,MB,Manitoba
+Port Hawkesbury,Port Hawkesbury,NS,Nova Scotia
+Three Hills,Three Hills,AB,Alberta
+Lorette,Lorette,MB,Manitoba
+Paspebiac,Paspebiac,QC,Quebec
+Saint-Thomas,Saint-Thomas,QC,Quebec
+Saint-Jean-Baptiste,Saint-Jean-Baptiste,QC,Quebec
+Portneuf,Portneuf,QC,Quebec
+Pictou,Pictou,NS,Nova Scotia
+Tisdale,Tisdale,SK,Saskatchewan
+Lake of Bays,Lake of Bays,ON,Ontario
+High Level,High Level,AB,Alberta
+Gibbons,Gibbons,AB,Alberta
+Bishops Falls,Bishops Falls,NL,Newfoundland and Labrador
+WestLake-Gladstone,WestLake-Gladstone,MB,Manitoba
+Normandin,Normandin,QC,Quebec
+Saint-Alphonse-Rodriguez,Saint-Alphonse-Rodriguez,QC,Quebec
+Beauséjour,Beausejour,MB,Manitoba
+Dalhousie,Dalhousie,NB,New Brunswick
+Saint-Alphonse-de-Granby,Saint-Alphonse-de-Granby,QC,Quebec
+Lac du Bonnet,Lac du Bonnet,MB,Manitoba
+Clermont,Clermont,QC,Quebec
+Virden,Virden,MB,Manitoba
+Compton,Compton,QC,Quebec
+White City,White City,SK,Saskatchewan
+Ellison,Ellison,BC,British Columbia
+Mont-Saint-Grégoire,Mont-Saint-Gregoire,QC,Quebec
+Wellington,Wellington,NB,New Brunswick
+Merrickville,Merrickville,ON,Ontario
+Saint-Liboire,Saint-Liboire,QC,Quebec
+Dégelis,Degelis,QC,Quebec
+Morris,Morris,MB,Manitoba
+Saint-Alexis-des-Monts,Saint-Alexis-des-Monts,QC,Quebec
+Cap-Saint-Ignace,Cap-Saint-Ignace,QC,Quebec
+Saint-Anaclet-de-Lessard,Saint-Anaclet-de-Lessard,QC,Quebec
+Carman,Carman,MB,Manitoba
+Athens,Athens,ON,Ontario
+Melancthon,Melancthon,ON,Ontario
+Cap Santé,Cap Sante,QC,Quebec
+Harbour Grace,Harbour Grace,NL,Newfoundland and Labrador
+Houston,Houston,BC,British Columbia
+Adelaide-Metcalfe,Adelaide-Metcalfe,ON,Ontario
+Crossfield,Crossfield,AB,Alberta
+Springdale,Springdale,NL,Newfoundland and Labrador
+Fort Macleod,Fort Macleod,AB,Alberta
+Athabasca,Athabasca,AB,Alberta
+Enderby,Enderby,BC,British Columbia
+Saint-Ferréol-les-Neiges,Saint-Ferreol-les-Neiges,QC,Quebec
+Laurentian Hills,Laurentian Hills,ON,Ontario
+Grand Valley,Grand Valley,ON,Ontario
+Senneterre,Senneterre,QC,Quebec
+Sainte-Marie-Madeleine,Sainte-Marie-Madeleine,QC,Quebec
+Admaston/Bromley,Admaston/Bromley,ON,Ontario
+Saint-Gabriel-de-Valcartier,Saint-Gabriel-de-Valcartier,QC,Quebec
+North Algona Wilberforce,North Algona Wilberforce,ON,Ontario
+Kingston,Kingston,NB,New Brunswick
+Wawa,Wawa,ON,Ontario
+Saint-Christophe-d'Arthabaska,Saint-Christophe-d'Arthabaska,QC,Quebec
+Sainte-Mélanie,Sainte-Melanie,QC,Quebec
+Ascot Corner,Ascot Corner,QC,Quebec
+Horton,Horton,ON,Ontario
+Saint-Michel,Saint-Michel,QC,Quebec
+Botwood,Botwood,NL,Newfoundland and Labrador
+Saint-Paul-d'Abbotsford,Saint-Paul-d'Abbotsford,QC,Quebec
+Saint-Marc-des-Carrières,Saint-Marc-des-Carrieres,QC,Quebec
+Stanstead,Stanstead,QC,Quebec
+Sainte-Anne-de-Beaupré,Sainte-Anne-de-Beaupre,QC,Quebec
+Sainte-Luce,Sainte-Luce,QC,Quebec
+Saint-Gabriel,Saint-Gabriel,QC,Quebec
+Rankin Inlet,Rankin Inlet,NU,Nunavut
+Vanscoy No. 345,Vanscoy No. 345,SK,Saskatchewan
+Cedar,Cedar,BC,British Columbia
+Princeton,Princeton,BC,British Columbia
+La Loche,La Loche,SK,Saskatchewan
+Kingsclear,Kingsclear,NB,New Brunswick
+Ferme-Neuve,Ferme-Neuve,QC,Quebec
+Thurso,Thurso,QC,Quebec
+Adstock,Adstock,QC,Quebec
+Shuniah,Shuniah,ON,Ontario
+Enniskillen,Enniskillen,ON,Ontario
+Yamachiche,Yamachiche,QC,Quebec
+Saint-Maurice,Saint-Maurice,QC,Quebec
+Bonaventure,Bonaventure,QC,Quebec
+Val-Morin,Val-Morin,QC,Quebec
+Pohénégamook,Pohenegamook,QC,Quebec
+Wakefield,Wakefield,NB,New Brunswick
+Stoke,Stoke,QC,Quebec
+Sainte-Marguerite-du-Lac-Masson,Sainte-Marguerite-du-Lac-Masson,QC,Quebec
+Saint-Prime,Saint-Prime,QC,Quebec
+Kuujjuaq,Kuujjuaq,QC,Quebec
+Atikokan,Atikokan,ON,Ontario
+Grenville-sur-la-Rouge,Grenville-sur-la-Rouge,QC,Quebec
+North Cypress-Langford,North Cypress-Langford,MB,Manitoba
+Sainte-Anne-de-Sorel,Sainte-Anne-de-Sorel,QC,Quebec
+Macamic,Macamic,QC,Quebec
+Sundre,Sundre,AB,Alberta
+Rougemont,Rougemont,QC,Quebec
+Piedmont,Piedmont,QC,Quebec
+Grimshaw,Grimshaw,AB,Alberta
+Lac-des-Écorces,Lac-des-Ecorces,QC,Quebec
+Northeastern Manitoulin and the Islands,Northeastern Manitoulin and the Islands,ON,Ontario
+Pelican Narrows,Pelican Narrows,SK,Saskatchewan
+McDougall,McDougall,ON,Ontario
+Black Diamond,Black Diamond,AB,Alberta
+Saint-Pamphile,Saint-Pamphile,QC,Quebec
+Bedford,Bedford,QC,Quebec
+Weedon-Centre,Weedon-Centre,QC,Quebec
+Lacolle,Lacolle,QC,Quebec
+Saint-Gabriel-de-Brandon,Saint-Gabriel-de-Brandon,QC,Quebec
+Errington,Errington,BC,British Columbia
+Coalhurst,Coalhurst,AB,Alberta
+French River / Rivière des Français,French River / Riviere des Francais,ON,Ontario
+Arviat,Arviat,NU,Nunavut
+Saint-David-de-Falardeau,Saint-David-de-Falardeau,QC,Quebec
+Markstay,Markstay,ON,Ontario
+Spaniards Bay,Spaniards Bay,NL,Newfoundland and Labrador
+Cocagne,Cocagne,NB,New Brunswick
+Saint-Bruno,Saint-Bruno,QC,Quebec
+Chetwynd,Chetwynd,BC,British Columbia
+Laurier-Station,Laurier-Station,QC,Quebec
+Saint-Anicet,Saint-Anicet,QC,Quebec
+Saint-Mathieu-de-Beloeil,Saint-Mathieu-de-Beloeil,QC,Quebec
+Cap-Chat,Cap-Chat,QC,Quebec
+Sexsmith,Sexsmith,AB,Alberta
+Notre-Dame-de-Lourdes,Notre-Dame-de-Lourdes,QC,Quebec
+Ville-Marie,Ville-Marie,QC,Quebec
+Saint-Isidore,Saint-Isidore,QC,Quebec
+Shippegan,Shippegan,NB,New Brunswick
+East Garafraxa,East Garafraxa,ON,Ontario
+Pemberton,Pemberton,BC,British Columbia
+Unity,Unity,SK,Saskatchewan
+Rimbey,Rimbey,AB,Alberta
+High Prairie,High Prairie,AB,Alberta
+Turner Valley,Turner Valley,AB,Alberta
+Hanna,Hanna,AB,Alberta
+Fort Smith,Fort Smith,NT,Northwest Territories
+Maria,Maria,QC,Quebec
+Saint-Chrysostome,Saint-Chrysostome,QC,Quebec
+Greater Madawaska,Greater Madawaska,ON,Ontario
+Berwick,Berwick,NS,Nova Scotia
+Saint-Damase,Saint-Damase,QC,Quebec
+Lincoln,Lincoln,NB,New Brunswick
+Disraeli,Disraeli,QC,Quebec
+Sainte-Victoire-de-Sorel,Sainte-Victoire-de-Sorel,QC,Quebec
+Meadow Lake No. 588,Meadow Lake No. 588,SK,Saskatchewan
+Elkford,Elkford,BC,British Columbia
+Georgian Bay,Georgian Bay,ON,Ontario
+Saint-Alexandre,Saint-Alexandre,QC,Quebec
+Hérbertville,Herbertville,QC,Quebec
+Moosomin,Moosomin,SK,Saskatchewan
+North Kawartha,North Kawartha,ON,Ontario
+Sainte-Thècle,Sainte-Thecle,QC,Quebec
+Trenton,Trenton,NS,Nova Scotia
+Fermont,Fermont,QC,Quebec
+Esterhazy,Esterhazy,SK,Saskatchewan
+Wickham,Wickham,QC,Quebec
+La Présentation,La Presentation,QC,Quebec
+Beaverlodge,Beaverlodge,AB,Alberta
+Sainte-Catherine-de-Hatley,Sainte-Catherine-de-Hatley,QC,Quebec
+Saint-Basile,Saint-Basile,QC,Quebec
+Saint-Raphaël,Saint-Raphael,QC,Quebec
+Holyrood,Holyrood,NL,Newfoundland and Labrador
+Gracefield,Gracefield,QC,Quebec
+Saint-Martin,Saint-Martin,QC,Quebec
+Causapscal,Causapscal,QC,Quebec
+Brigham,Brigham,QC,Quebec
+Perry,Perry,ON,Ontario
+Port-Daniel--Gascons,Port-Daniel--Gascons,QC,Quebec
+Rosetown,Rosetown,SK,Saskatchewan
+Minnedosa,Minnedosa,MB,Manitoba
+Labelle,Labelle,QC,Quebec
+Huntingdon,Huntingdon,QC,Quebec
+Hébertville,Hebertville,QC,Quebec
+Black River-Matheson,Black River-Matheson,ON,Ontario
+Saint-Michel-des-Saints,Saint-Michel-des-Saints,QC,Quebec
+Dufferin,Dufferin,MB,Manitoba
+Saint-Victor,Saint-Victor,QC,Quebec
+Sicamous,Sicamous,BC,British Columbia
+Cap Pele,Cap Pele,NB,New Brunswick
+Kelsey,Kelsey,MB,Manitoba
+"Killaloe, Hagarty and Richards","Killaloe, Hagarty and Richards",ON,Ontario
+Alvinston,Alvinston,ON,Ontario
+Dundurn No. 314,Dundurn No. 314,SK,Saskatchewan
+Saint-Éphrem-de-Beauce,Saint-Ephrem-de-Beauce,QC,Quebec
+Assiniboia,Assiniboia,SK,Saskatchewan
+Témiscaming,Temiscaming,QC,Quebec
+Magrath,Magrath,AB,Alberta
+Sainte-Geneviève-de-Berthier,Sainte-Genevieve-de-Berthier,QC,Quebec
+Buctouche,Buctouche,NB,New Brunswick
+Grand Manan,Grand Manan,NB,New Brunswick
+Sainte-Madeleine,Sainte-Madeleine,QC,Quebec
+Boissevain,Boissevain,MB,Manitoba
+Scott,Scott,QC,Quebec
+Sainte-Croix,Sainte-Croix,QC,Quebec
+Algonquin Highlands,Algonquin Highlands,ON,Ontario
+Valcourt,Valcourt,QC,Quebec
+Saint George,Saint George,NB,New Brunswick
+Paquetville,Paquetville,NB,New Brunswick
+Saint-Dominique,Saint-Dominique,QC,Quebec
+Clearwater,Clearwater,BC,British Columbia
+Addington Highlands,Addington Highlands,ON,Ontario
+Lillooet,Lillooet,BC,British Columbia
+Burin,Burin,NL,Newfoundland and Labrador
+Grand Bank,Grand Bank,NL,Newfoundland and Labrador
+Léry,Lery,QC,Quebec
+Minto,Minto,NB,New Brunswick
+Rosthern No. 403,Rosthern No. 403,SK,Saskatchewan
+Chase,Chase,BC,British Columbia
+Mansfield-et-Pontefract,Mansfield-et-Pontefract,QC,Quebec
+Saint-Denis,Saint-Denis,QC,Quebec
+Outlook,Outlook,SK,Saskatchewan
+Mitchell,Mitchell,MB,Manitoba
+Saint-Gédéon-de-Beauce,Saint-Gedeon-de-Beauce,QC,Quebec
+Saint-Léonard-d'Aston,Saint-Leonard-d'Aston,QC,Quebec
+Lunenburg,Lunenburg,NS,Nova Scotia
+Northesk,Northesk,NB,New Brunswick
+Albanel,Albanel,QC,Quebec
+St. Anthony,St. Anthony,NL,Newfoundland and Labrador
+Pessamit,Pessamit,QC,Quebec
+Maskinongé,Maskinonge,QC,Quebec
+Saint-Charles-de-Bellechasse,Saint-Charles-de-Bellechasse,QC,Quebec
+Fogo Island,Fogo Island,NL,Newfoundland and Labrador
+East Broughton,East Broughton,QC,Quebec
+Lantz,Lantz,NS,Nova Scotia
+Calmar,Calmar,AB,Alberta
+Highlands,Highlands,BC,British Columbia
+Saint-Polycarpe,Saint-Polycarpe,QC,Quebec
+Logy Bay-Middle Cove-Outer Cove,Logy Bay-Middle Cove-Outer Cove,NL,Newfoundland and Labrador
+Deschambault,Deschambault,QC,Quebec
+Canora,Canora,SK,Saskatchewan
+Upper Miramichi,Upper Miramichi,NB,New Brunswick
+Anmore,Anmore,BC,British Columbia
+Hardwicke,Hardwicke,NB,New Brunswick
+Saint-Côme,Saint-Come,QC,Quebec
+Waskaganish,Waskaganish,QC,Quebec
+Twillingate,Twillingate,NL,Newfoundland and Labrador
+Saint-Quentin,Saint-Quentin,NB,New Brunswick
+Lebel-sur-Quévillon,Lebel-sur-Quevillon,QC,Quebec
+Pilot Butte,Pilot Butte,SK,Saskatchewan
+Nanton,Nanton,AB,Alberta
+Pierreville,Pierreville,QC,Quebec
+New-Wes-Valley,New-Wes-Valley,NL,Newfoundland and Labrador
+Pennfield Ridge,Pennfield Ridge,NB,New Brunswick
+West Interlake,West Interlake,MB,Manitoba
+Biggar,Biggar,SK,Saskatchewan
+Britannia No. 502,Britannia No. 502,SK,Saskatchewan
+Kent,Kent,NB,New Brunswick
+Wabana,Wabana,NL,Newfoundland and Labrador
+Saint-Gilles,Saint-Gilles,QC,Quebec
+Wendake,Wendake,QC,Quebec
+Saint-Bernard,Saint-Bernard,QC,Quebec
+Sainte-Cécile-de-Milton,Sainte-Cecile-de-Milton,QC,Quebec
+Saint-Roch-de-Richelieu,Saint-Roch-de-Richelieu,QC,Quebec
+Saint-Nazaire,Saint-Nazaire,QC,Quebec
+Saint-Elzéar,Saint-Elzear,QC,Quebec
+Hinchinbrooke,Hinchinbrooke,QC,Quebec
+Saint-François-Xavier-de-Brompton,Saint-Francois-Xavier-de-Brompton,QC,Quebec
+Papineauville,Papineauville,QC,Quebec
+Prairie View,Prairie View,MB,Manitoba
+Cowichan Bay,Cowichan Bay,BC,British Columbia
+Saint-Ignace-de-Loyola,Saint-Ignace-de-Loyola,QC,Quebec
+Central Manitoulin,Central Manitoulin,ON,Ontario
+Maple Creek,Maple Creek,SK,Saskatchewan
+Glovertown,Glovertown,NL,Newfoundland and Labrador
+Tofield,Tofield,AB,Alberta
+Madoc,Madoc,ON,Ontario
+Upton,Upton,QC,Quebec
+Sainte-Anne-de-Sabrevois,Sainte-Anne-de-Sabrevois,QC,Quebec
+Logan Lake,Logan Lake,BC,British Columbia
+Sainte-Anne-de-la-Pérade,Sainte-Anne-de-la-Perade,QC,Quebec
+Saint-Damien-de-Buckland,Saint-Damien-de-Buckland,QC,Quebec
+Baker Lake,Baker Lake,NU,Nunavut
+Saltair,Saltair,BC,British Columbia
+Pouch Cove,Pouch Cove,NL,Newfoundland and Labrador
+Saint-Ferdinand,Saint-Ferdinand,QC,Quebec
+Port McNeill,Port McNeill,BC,British Columbia
+Digby,Digby,NS,Nova Scotia
+Manouane,Manouane,QC,Quebec
+Saint-Gervais,Saint-Gervais,QC,Quebec
+Neebing,Neebing,ON,Ontario
+Redwater,Redwater,AB,Alberta
+Saint-Alexandre-de-Kamouraska,Saint-Alexandre-de-Kamouraska,QC,Quebec
+Saint-Marc-sur-Richelieu,Saint-Marc-sur-Richelieu,QC,Quebec
+Mandeville,Mandeville,QC,Quebec
+Caplan,Caplan,QC,Quebec
+Point Edward,Point Edward,ON,Ontario
+Allardville,Allardville,NB,New Brunswick
+Waterville,Waterville,QC,Quebec
+Saint-Damien,Saint-Damien,QC,Quebec
+Lac-Nominingue,Lac-Nominingue,QC,Quebec
+Obedjiwan,Obedjiwan,QC,Quebec
+Rama,Rama,SK,Saskatchewan
+McCreary,McCreary,MB,Manitoba
+Deloraine-Winchester,Deloraine-Winchester,MB,Manitoba
+Oakland-Wawanesa,Oakland-Wawanesa,MB,Manitoba
+Brenda-Waskada,Brenda-Waskada,MB,Manitoba
+Russell-Binscarth,Russell-Binscarth,MB,Manitoba
+Ellice-Archie,Ellice-Archie,MB,Manitoba
+Souris-Glenwood,Souris-Glenwood,MB,Manitoba
+Riverdale,Riverdale,MB,Manitoba
+Pembina,Pembina,MB,Manitoba
+Wallace-Woodworth,Wallace-Woodworth,MB,Manitoba
+Lorne,Lorne,MB,Manitoba
+Ethelbert,Ethelbert,MB,Manitoba
+Yellowhead,Yellowhead,MB,Manitoba
+Swan Valley West,Swan Valley West,MB,Manitoba
+Grey,Grey,MB,Manitoba
+Gilbert Plains,Gilbert Plains,MB,Manitoba
+Norfolk-Treherne,Norfolk-Treherne,MB,Manitoba
+Hamiota,Hamiota,MB,Manitoba
+Emerson-Franklin,Emerson-Franklin,MB,Manitoba
+Sifton,Sifton,MB,Manitoba
+Rossburn,Rossburn,MB,Manitoba
+Grand View,Grand View,MB,Manitoba
+Grassland,Grassland,MB,Manitoba
+Louise,Louise,MB,Manitoba
+Ste. Rose,Ste. Rose,MB,Manitoba
+Cartwright-Roblin,Cartwright-Roblin,MB,Manitoba
+Mossey River,Mossey River,MB,Manitoba
+Lakeshore,Lakeshore,MB,Manitoba
+Riding Mountain West,Riding Mountain West,MB,Manitoba
+Clanwilliam-Erickson,Clanwilliam-Erickson,MB,Manitoba
+Glenboro-South Cypress,Glenboro-South Cypress,MB,Manitoba
+North Norfolk,North Norfolk,MB,Manitoba
+Reinland,Reinland,MB,Manitoba
+Minitonas-Bowsman,Minitonas-Bowsman,MB,Manitoba
+Kippens,Kippens,NL,Newfoundland and Labrador
+Blucher,Blucher,SK,Saskatchewan
+Hatley,Hatley,QC,Quebec
+Saint-Gédéon,Saint-Gedeon,QC,Quebec
+Kingsey Falls,Kingsey Falls,QC,Quebec
+Provost,Provost,AB,Alberta
+Saint-Charles,Saint-Charles,NB,New Brunswick
+Mattawa,Mattawa,ON,Ontario
+Tumbler Ridge,Tumbler Ridge,BC,British Columbia
+Terrasse-Vaudreuil,Terrasse-Vaudreuil,QC,Quebec
+L'Ascension-de-Notre-Seigneur,L'Ascension-de-Notre-Seigneur,QC,Quebec
+Bow Island,Bow Island,AB,Alberta
+Barraute,Barraute,QC,Quebec
+One Hundred Mile House,One Hundred Mile House,BC,British Columbia
+Kedgwick,Kedgwick,NB,New Brunswick
+Gambo,Gambo,NL,Newfoundland and Labrador
+Saint-Liguori,Saint-Liguori,QC,Quebec
+Bonfield,Bonfield,ON,Ontario
+Pointe-Lebel,Pointe-Lebel,QC,Quebec
+Saint Mary,Saint Mary,NB,New Brunswick
+Saint-Patrice-de-Sherrington,Saint-Patrice-de-Sherrington,QC,Quebec
+Fox Creek,Fox Creek,AB,Alberta
+Dawn-Euphemia,Dawn-Euphemia,ON,Ontario
+Chapleau,Chapleau,ON,Ontario
+Saint-Esprit,Saint-Esprit,QC,Quebec
+Westfield Beach,Westfield Beach,NB,New Brunswick
+Montague,Montague,PE,Prince Edward Island
+Mashteuiatsh,Mashteuiatsh,QC,Quebec
+Saint-François-du-Lac,Saint-Francois-du-Lac,QC,Quebec
+Eel River Crossing,Eel River Crossing,NB,New Brunswick
+Saint-Fulgence,Saint-Fulgence,QC,Quebec
+Millet,Millet,AB,Alberta
+Vallée-Jonction,Vallee-Jonction,QC,Quebec
+Saint-Georges-de-Cacouna,Saint-Georges-de-Cacouna,QC,Quebec
+Lumsden No. 189,Lumsden No. 189,SK,Saskatchewan
+Manitouwadge,Manitouwadge,ON,Ontario
+Wellington,Wellington,ON,Ontario
+Swift Current No. 137,Swift Current No. 137,SK,Saskatchewan
+Tofino,Tofino,BC,British Columbia
+Fort Qu’Appelle,Fort Qu'Appelle,SK,Saskatchewan
+Vulcan,Vulcan,AB,Alberta
+Indian Head,Indian Head,SK,Saskatchewan
+Petit Rocher,Petit Rocher,NB,New Brunswick
+Wabush,Wabush,NL,Newfoundland and Labrador
+Saint-Fabien,Saint-Fabien,QC,Quebec
+Watrous,Watrous,SK,Saskatchewan
+North Frontenac,North Frontenac,ON,Ontario
+Lac-Supérieur,Lac-Superieur,QC,Quebec
+Les Escoumins,Les Escoumins,QC,Quebec
+Richibucto,Richibucto,NB,New Brunswick
+Rivière-Beaudette,Riviere-Beaudette,QC,Quebec
+Saint-Barthélemy,Saint-Barthelemy,QC,Quebec
+Nisga'a,Nisga'a,BC,British Columbia
+Austin,Austin,QC,Quebec
+Saint-Mathieu,Saint-Mathieu,QC,Quebec
+Saint-Paul-de-l'Île-aux-Noix,Saint-Paul-de-l'Ile-aux-Noix,QC,Quebec
+Orkney No. 244,Orkney No. 244,SK,Saskatchewan
+Behchokò,Behchoko,NT,Northwest Territories
+Saint-Joseph-de-Coleraine,Saint-Joseph-de-Coleraine,QC,Quebec
+Saint-Cyprien-de-Napierville,Saint-Cyprien-de-Napierville,QC,Quebec
+Sayabec,Sayabec,QC,Quebec
+Valleyview,Valleyview,AB,Alberta
+Déléage,Deleage,QC,Quebec
+Potton,Potton,QC,Quebec
+Sainte-Béatrix,Sainte-Beatrix,QC,Quebec
+Sainte-Justine,Sainte-Justine,QC,Quebec
+Eastman,Eastman,QC,Quebec
+Saint-Valérien-de-Milton,Saint-Valerien-de-Milton,QC,Quebec
+Saint-Cuthbert,Saint-Cuthbert,QC,Quebec
+Saint-Blaise-sur-Richelieu,Saint-Blaise-sur-Richelieu,QC,Quebec
+Middleton,Middleton,NS,Nova Scotia
+Maugerville,Maugerville,NB,New Brunswick
+Dalmeny,Dalmeny,SK,Saskatchewan
+Kamsack,Kamsack,SK,Saskatchewan
+Lumsden,Lumsden,SK,Saskatchewan
+Trinity Bay North,Trinity Bay North,NL,Newfoundland and Labrador
+Saint-Michel-de-Bellechasse,Saint-Michel-de-Bellechasse,QC,Quebec
+Sainte-Angèle-de-Monnoir,Sainte-Angele-de-Monnoir,QC,Quebec
+Picture Butte,Picture Butte,AB,Alberta
+Sacré-Coeur-Saguenay,Sacre-Coeur-Saguenay,QC,Quebec
+Saint-Louis,Saint-Louis,NB,New Brunswick
+Victoria,Victoria,NL,Newfoundland and Labrador
+Saint-Robert,Saint-Robert,QC,Quebec
+Armstrong,Armstrong,MB,Manitoba
+Saint-Pierre-de-l'Île-d'Orléans,Saint-Pierre-de-l'Ile-d'Orleans,QC,Quebec
+La Guadeloupe,La Guadeloupe,QC,Quebec
+Saint Andrews,Saint Andrews,NB,New Brunswick
+Burns Lake,Burns Lake,BC,British Columbia
+Povungnituk,Povungnituk,QC,Quebec
+Manners Sutton,Manners Sutton,NB,New Brunswick
+Gore,Gore,QC,Quebec
+Deseronto,Deseronto,ON,Ontario
+Lamont,Lamont,AB,Alberta
+Chambord,Chambord,QC,Quebec
+Dudswell,Dudswell,QC,Quebec
+Wynyard,Wynyard,SK,Saskatchewan
+Cambridge Bay,Cambridge Bay,NU,Nunavut
+Saint-Narcisse,Saint-Narcisse,QC,Quebec
+Frontenac Islands,Frontenac Islands,ON,Ontario
+Waswanipi,Waswanipi,QC,Quebec
+Inukjuak,Inukjuak,QC,Quebec
+Piney,Piney,MB,Manitoba
+Komoka,Komoka,ON,Ontario
+Saint-Zacharie,Saint-Zacharie,QC,Quebec
+Hemmingford,Hemmingford,QC,Quebec
+Shelburne,Shelburne,NS,Nova Scotia
+Saint-Clet,Saint-Clet,QC,Quebec
+Carberry,Carberry,MB,Manitoba
+Brighton,Brighton,NB,New Brunswick
+Saint-Antoine,Saint-Antoine,NB,New Brunswick
+Warfield,Warfield,BC,British Columbia
+Northampton,Northampton,NB,New Brunswick
+Saint-Ours,Saint-Ours,QC,Quebec
+Stephenville Crossing,Stephenville Crossing,NL,Newfoundland and Labrador
+Sainte-Anne-de-la-Pocatière,Sainte-Anne-de-la-Pocatiere,QC,Quebec
+Ucluelet,Ucluelet,BC,British Columbia
+Saint-Placide,Saint-Placide,QC,Quebec
+Barrière,Barriere,BC,British Columbia
+Fisher,Fisher,MB,Manitoba
+Nipissing,Nipissing,ON,Ontario
+Sainte-Clotilde,Sainte-Clotilde,QC,Quebec
+Shaunavon,Shaunavon,SK,Saskatchewan
+Wicklow,Wicklow,NB,New Brunswick
+Southesk,Southesk,NB,New Brunswick
+Nouvelle,Nouvelle,QC,Quebec
+Rosthern,Rosthern,SK,Saskatchewan
+Yamaska,Yamaska,QC,Quebec
+Neguac,Neguac,NB,New Brunswick
+Flat Rock,Flat Rock,NL,Newfoundland and Labrador
+Igloolik,Igloolik,NU,Nunavut
+Grunthal,Grunthal,MB,Manitoba
+Naramata,Naramata,BC,British Columbia
+Saint-Élie-de-Caxton,Saint-Elie-de-Caxton,QC,Quebec
+Blumenort,Blumenort,MB,Manitoba
+Balmoral,Balmoral,NB,New Brunswick
+Price,Price,QC,Quebec
+Rosedale,Rosedale,MB,Manitoba
+Saint-Jacques-le-Mineur,Saint-Jacques-le-Mineur,QC,Quebec
+Huron Shores,Huron Shores,ON,Ontario
+Champlain,Champlain,QC,Quebec
+Whitehead,Whitehead,MB,Manitoba
+Saint-Antoine-sur-Richelieu,Saint-Antoine-sur-Richelieu,QC,Quebec
+Saint-Pacôme,Saint-Pacome,QC,Quebec
+Saint-Stanislas-de-Kostka,Saint-Stanislas-de-Kostka,QC,Quebec
+Frontenac,Frontenac,QC,Quebec
+Stuartburn,Stuartburn,MB,Manitoba
+Yamaska-Est,Yamaska-Est,QC,Quebec
+Sainte-Émélie-de-l'Énergie,Sainte-Emelie-de-l'Energie,QC,Quebec
+Saint-Charles-sur-Richelieu,Saint-Charles-sur-Richelieu,QC,Quebec
+Saint-Joseph-de-Sorel,Saint-Joseph-de-Sorel,QC,Quebec
+Nipigon,Nipigon,ON,Ontario
+Rivière-Blanche,Riviere-Blanche,QC,Quebec
+Sainte-Hélène-de-Bagot,Sainte-Helene-de-Bagot,QC,Quebec
+Franklin Centre,Franklin Centre,QC,Quebec
+Harbour Breton,Harbour Breton,NL,Newfoundland and Labrador
+Massey Drive,Massey Drive,NL,Newfoundland and Labrador
+Mille-Isles,Mille-Isles,QC,Quebec
+Wilton No. 472,Wilton No. 472,SK,Saskatchewan
+Lyster,Lyster,QC,Quebec
+Oakview,Oakview,MB,Manitoba
+Balgonie,Balgonie,SK,Saskatchewan
+Harrison Park,Harrison Park,MB,Manitoba
+Kensington,Kensington,PE,Prince Edward Island
+Witless Bay,Witless Bay,NL,Newfoundland and Labrador
+Pond Inlet,Pond Inlet,NU,Nunavut
+Royston,Royston,BC,British Columbia
+Sainte-Clotilde-de-Horton,Sainte-Clotilde-de-Horton,QC,Quebec
+Burford,Burford,ON,Ontario
+Fossambault-sur-le-Lac,Fossambault-sur-le-Lac,QC,Quebec
+Saint-Benoît-Labre,Saint-Benoit-Labre,QC,Quebec
+Coombs,Coombs,BC,British Columbia
+Terrace Bay,Terrace Bay,ON,Ontario
+Chapais,Chapais,QC,Quebec
+Saint-Honoré-de-Shenley,Saint-Honore-de-Shenley,QC,Quebec
+Cleveland,Cleveland,QC,Quebec
+"Macdonald, Meredith and Aberdeen Additional","Macdonald, Meredith and Aberdeen Additional",ON,Ontario
+Messines,Messines,QC,Quebec
+Saint-Jean-de-Dieu,Saint-Jean-de-Dieu,QC,Quebec
+Nakusp,Nakusp,BC,British Columbia
+Florenceville,Florenceville,NB,New Brunswick
+Saint-Antoine-de-Tilly,Saint-Antoine-de-Tilly,QC,Quebec
+Lakeview,Lakeview,BC,British Columbia
+Humbermouth,Humbermouth,NL,Newfoundland and Labrador
+Fort St. James,Fort St. James,BC,British Columbia
+Saint-François-de-la-Rivière-du-Sud,Saint-Francois-de-la-Riviere-du-Sud,QC,Quebec
+Saint-Jacques,Saint-Jacques,NB,New Brunswick
+Uashat,Uashat,QC,Quebec
+Perth,Perth,NB,New Brunswick
+Eeyou Istchee Baie-James,Eeyou Istchee Baie-James,QC,Quebec
+Shellbrook No. 493,Shellbrook No. 493,SK,Saskatchewan
+Shawville,Shawville,QC,Quebec
+Saint-Lucien,Saint-Lucien,QC,Quebec
+Lambton,Lambton,QC,Quebec
+Saint-Laurent-de-l'Île-d'Orléans,Saint-Laurent-de-l'Ile-d'Orleans,QC,Quebec
+Saint-Flavien,Saint-Flavien,QC,Quebec
+Grenville,Grenville,QC,Quebec
+Chute-aux-Outardes,Chute-aux-Outardes,QC,Quebec
+Sainte-Marcelline-de-Kildare,Sainte-Marcelline-de-Kildare,QC,Quebec
+Saint-Félix-de-Kingsey,Saint-Felix-de-Kingsey,QC,Quebec
+Upper Island Cove,Upper Island Cove,NL,Newfoundland and Labrador
+Glenelg,Glenelg,NB,New Brunswick
+Sainte-Élisabeth,Sainte-Elisabeth,QC,Quebec
+Ashcroft,Ashcroft,BC,British Columbia
+Clarkes Beach,Clarkes Beach,NL,Newfoundland and Labrador
+Saint-Bernard-de-Lacolle,Saint-Bernard-de-Lacolle,QC,Quebec
+Belledune,Belledune,NB,New Brunswick
+Saint-Guillaume,Saint-Guillaume,QC,Quebec
+Venise-en-Québec,Venise-en-Quebec,QC,Quebec
+Maliotenam,Maliotenam,QC,Quebec
+Ripon,Ripon,QC,Quebec
+Hilliers,Hilliers,BC,British Columbia
+Saint-Joseph,Saint-Joseph,NB,New Brunswick
+Saint-Paulin,Saint-Paulin,QC,Quebec
+Bon Accord,Bon Accord,AB,Alberta
+Saint David,Saint David,NB,New Brunswick
+Saint-Albert,Saint-Albert,QC,Quebec
+Matagami,Matagami,QC,Quebec
+Springfield,Springfield,NB,New Brunswick
+Amherst,Amherst,QC,Quebec
+Notre-Dame-du-Laus,Notre-Dame-du-Laus,QC,Quebec
+St. George,St. George,NB,New Brunswick
+Wembley,Wembley,AB,Alberta
+Victoria,Victoria,MB,Manitoba
+Springbrook,Springbrook,AB,Alberta
+Saint-Tite-des-Caps,Saint-Tite-des-Caps,QC,Quebec
+Hudson Bay,Hudson Bay,SK,Saskatchewan
+Pinawa,Pinawa,MB,Manitoba
+"Brudenell, Lyndoch and Raglan","Brudenell, Lyndoch and Raglan",ON,Ontario
+Carlyle,Carlyle,SK,Saskatchewan
+Keremeos,Keremeos,BC,British Columbia
+Val-Joli,Val-Joli,QC,Quebec
+Gold River,Gold River,BC,British Columbia
+Saint-Casimir,Saint-Casimir,QC,Quebec
+Bay Bulls,Bay Bulls,NL,Newfoundland and Labrador
+Langham,Langham,SK,Saskatchewan
+Frenchman Butte,Frenchman Butte,SK,Saskatchewan
+Gordon,Gordon,NB,New Brunswick
+Kugluktuk,Kugluktuk,NU,Nunavut
+Saint-Malachie,Saint-Malachie,QC,Quebec
+Southampton,Southampton,NB,New Brunswick
+Salluit,Salluit,QC,Quebec
+Pangnirtung,Pangnirtung,NU,Nunavut
+Saint-Louis-de-Gonzague,Saint-Louis-de-Gonzague,QC,Quebec
+Moosonee,Moosonee,ON,Ontario
+Englehart,Englehart,ON,Ontario
+Saint-Urbain,Saint-Urbain,QC,Quebec
+Tring-Jonction,Tring-Jonction,QC,Quebec
+Nauwigewauk,Nauwigewauk,NB,New Brunswick
+Pointe-à-la-Croix,Pointe-a-la-Croix,QC,Quebec
+Denmark,Denmark,NB,New Brunswick
+Saint-Joachim,Saint-Joachim,QC,Quebec
+Torch River No. 488,Torch River No. 488,SK,Saskatchewan
+Saint-Théodore-d'Acton,Saint-Theodore-d'Acton,QC,Quebec
+Grindrod,Grindrod,BC,British Columbia
+L’ Îsle-Verte,L' Isle-Verte,QC,Quebec
+Harrison Hot Springs,Harrison Hot Springs,BC,British Columbia
+Palmarolle,Palmarolle,QC,Quebec
+Henryville,Henryville,QC,Quebec
+Sussex Corner,Sussex Corner,NB,New Brunswick
+Saint-Odilon-de-Cranbourne,Saint-Odilon-de-Cranbourne,QC,Quebec
+Pipestone,Pipestone,MB,Manitoba
+Laurierville,Laurierville,QC,Quebec
+La Doré,La Dore,QC,Quebec
+Lac-au-Saumon,Lac-au-Saumon,QC,Quebec
+Wotton,Wotton,QC,Quebec
+Prairie Lakes,Prairie Lakes,MB,Manitoba
+Elk Point,Elk Point,AB,Alberta
+Shellbrook,Shellbrook,SK,Saskatchewan
+Wemindji,Wemindji,QC,Quebec
+Cape Dorset,Cape Dorset,NU,Nunavut
+Strong,Strong,ON,Ontario
+Lappe,Lappe,ON,Ontario
+Rivière-Héva,Riviere-Heva,QC,Quebec
+Fort-Coulonge,Fort-Coulonge,QC,Quebec
+Irishtown-Summerside,Irishtown-Summerside,NL,Newfoundland and Labrador
+Godmanchester,Godmanchester,QC,Quebec
+Macklin,Macklin,SK,Saskatchewan
+Armour,Armour,ON,Ontario
+Saint-Simon,Saint-Simon,QC,Quebec
+St. François Xavier,St. Francois Xavier,MB,Manitoba
+Tingwick,Tingwick,QC,Quebec
+Saint-Aubert,Saint-Aubert,QC,Quebec
+Saint-Mathieu-du-Parc,Saint-Mathieu-du-Parc,QC,Quebec
+Wabasca,Wabasca,AB,Alberta
+Ragueneau,Ragueneau,QC,Quebec
+Notre-Dame-du-Bon-Conseil,Notre-Dame-du-Bon-Conseil,QC,Quebec
+Wasagamack,Wasagamack,MB,Manitoba
+Saint-Ubalde,Saint-Ubalde,QC,Quebec
+Creighton,Creighton,SK,Saskatchewan
+Fortune,Fortune,NL,Newfoundland and Labrador
+Faraday,Faraday,ON,Ontario
+Berthier-sur-Mer,Berthier-sur-Mer,QC,Quebec
+Frampton,Frampton,QC,Quebec
+Magnetawan,Magnetawan,ON,Ontario
+New Carlisle,New Carlisle,QC,Quebec
+Laird No. 404,Laird No. 404,SK,Saskatchewan
+Petitcodiac,Petitcodiac,NB,New Brunswick
+Popkum,Popkum,BC,British Columbia
+Norton,Norton,NB,New Brunswick
+Canwood No. 494,Canwood No. 494,SK,Saskatchewan
+Wentworth-Nord,Wentworth-Nord,QC,Quebec
+Bas Caraquet,Bas Caraquet,NB,New Brunswick
+Sainte-Ursule,Sainte-Ursule,QC,Quebec
+Dawson,Dawson,YT,Yukon
+Nantes,Nantes,QC,Quebec
+Lac-aux-Sables,Lac-aux-Sables,QC,Quebec
+Stewiacke,Stewiacke,NS,Nova Scotia
+Taylor,Taylor,BC,British Columbia
+Rosser,Rosser,MB,Manitoba
+Estevan No. 5,Estevan No. 5,SK,Saskatchewan
+Falmouth,Falmouth,NS,Nova Scotia
+Vaudreuil-sur-le-Lac,Vaudreuil-sur-le-Lac,QC,Quebec
+Grahamdale,Grahamdale,MB,Manitoba
+Cardwell,Cardwell,NB,New Brunswick
+Two Hills,Two Hills,AB,Alberta
+Spiritwood No. 496,Spiritwood No. 496,SK,Saskatchewan
+Legal,Legal,AB,Alberta
+Amulet,Amulet,QC,Quebec
+Hérouxville,Herouxville,QC,Quebec
+Pointe-des-Cascades,Pointe-des-Cascades,QC,Quebec
+Weldford,Weldford,NB,New Brunswick
+Reynolds,Reynolds,MB,Manitoba
+St. Laurent,St. Laurent,MB,Manitoba
+Lions Bay,Lions Bay,BC,British Columbia
+L'Isle-aux-Allumettes,L'Isle-aux-Allumettes,QC,Quebec
+Emo,Emo,ON,Ontario
+Sainte-Brigide-d'Iberville,Sainte-Brigide-d'Iberville,QC,Quebec
+Les Éboulements,Les Eboulements,QC,Quebec
+Dunsmuir,Dunsmuir,BC,British Columbia
+Pointe-aux-Outardes,Pointe-aux-Outardes,QC,Quebec
+Smooth Rock Falls,Smooth Rock Falls,ON,Ontario
+Oxbow,Oxbow,SK,Saskatchewan
+Telkwa,Telkwa,BC,British Columbia
+Gjoa Haven,Gjoa Haven,NU,Nunavut
+Sainte-Barbe,Sainte-Barbe,QC,Quebec
+Mayerthorpe,Mayerthorpe,AB,Alberta
+Saint-Louis-du-Ha! Ha!,Saint-Louis-du-Ha! Ha!,QC,Quebec
+Powerview-Pine Falls,Powerview-Pine Falls,MB,Manitoba
+Baie Verte,Baie Verte,NL,Newfoundland and Labrador
+Saint-Édouard,Saint-Edouard,QC,Quebec
+Charlo,Charlo,NB,New Brunswick
+Hillsborough,Hillsborough,NB,New Brunswick
+Bruederheim,Bruederheim,AB,Alberta
+Burgeo,Burgeo,NL,Newfoundland and Labrador
+Wadena,Wadena,SK,Saskatchewan
+Richmond,Richmond,NB,New Brunswick
+Swan Hills,Swan Hills,AB,Alberta
+Wilkie,Wilkie,SK,Saskatchewan
+Saint-Léonard,Saint-Leonard,NB,New Brunswick
+Rivière-Bleue,Riviere-Bleue,QC,Quebec
+Noyan,Noyan,QC,Quebec
+Ile-à-la-Crosse,Ile-a-la-Crosse,SK,Saskatchewan
+Landmark,Landmark,MB,Manitoba
+Saint-Hugues,Saint-Hugues,QC,Quebec
+Chisholm,Chisholm,ON,Ontario
+Sainte-Anne-du-Sault,Sainte-Anne-du-Sault,QC,Quebec
+La Conception,La Conception,QC,Quebec
+Saint-Valère,Saint-Valere,QC,Quebec
+Sorrento,Sorrento,BC,British Columbia
+Lamèque,Lameque,NB,New Brunswick
+Thessalon,Thessalon,ON,Ontario
+L'Isle-aux-Coudres,L'Isle-aux-Coudres,QC,Quebec
+Nobleford,Nobleford,AB,Alberta
+Larouche,Larouche,QC,Quebec
+South Qu'Appelle No. 157,South Qu'Appelle No. 157,SK,Saskatchewan
+Elton,Elton,MB,Manitoba
+Lorrainville,Lorrainville,QC,Quebec
+Conestogo,Conestogo,ON,Ontario
+Upham,Upham,NB,New Brunswick
+St.-Charles,St.-Charles,ON,Ontario
+Sainte-Lucie-des-Laurentides,Sainte-Lucie-des-Laurentides,QC,Quebec
+Saint-Alexis,Saint-Alexis,QC,Quebec
+Gillam,Gillam,MB,Manitoba
+Roxton Falls,Roxton Falls,QC,Quebec
+Montcalm,Montcalm,MB,Manitoba
+Clarendon,Clarendon,QC,Quebec
+Mervin No. 499,Mervin No. 499,SK,Saskatchewan
+Saint-Ludger,Saint-Ludger,QC,Quebec
+Coldwell,Coldwell,MB,Manitoba
+Saint-Arsène,Saint-Arsene,QC,Quebec
+Racine,Racine,QC,Quebec
+Saint-Majorique-de-Grantham,Saint-Majorique-de-Grantham,QC,Quebec
+Saint-Zénon,Saint-Zenon,QC,Quebec
+Saint-Armand,Saint-Armand,QC,Quebec
+Saint-Édouard-de-Lotbinière,Saint-Edouard-de-Lotbiniere,QC,Quebec
+Alonsa,Alonsa,MB,Manitoba
+Listuguj,Listuguj,QC,Quebec
+Bowden,Bowden,AB,Alberta
+St. Joseph,St. Joseph,ON,Ontario
+Osler,Osler,SK,Saskatchewan
+Saint-Hubert-de-Rivière-du-Loup,Saint-Hubert-de-Riviere-du-Loup,QC,Quebec
+Saint-Jude,Saint-Jude,QC,Quebec
+Dildo,Dildo,NL,Newfoundland and Labrador
+La Minerve,La Minerve,QC,Quebec
+Lanigan,Lanigan,SK,Saskatchewan
+Lajord No. 128,Lajord No. 128,SK,Saskatchewan
+Moonbeam,Moonbeam,ON,Ontario
+Notre-Dame-des-Pins,Notre-Dame-des-Pins,QC,Quebec
+Saint-Alban,Saint-Alban,QC,Quebec
+Saint-Pierre-les-Becquets,Saint-Pierre-les-Becquets,QC,Quebec
+Arborg,Arborg,MB,Manitoba
+Vauxhall,Vauxhall,AB,Alberta
+Bayfield,Bayfield,ON,Ontario
+Beaver River,Beaver River,SK,Saskatchewan
+Irricana,Irricana,AB,Alberta
+Labrecque,Labrecque,QC,Quebec
+New Bandon,New Bandon,NB,New Brunswick
+Wemotaci,Wemotaci,QC,Quebec
+Sainte-Hénédine,Sainte-Henedine,QC,Quebec
+L'Anse-Saint-Jean,L'Anse-Saint-Jean,QC,Quebec
+Bassano,Bassano,AB,Alberta
+Parrsboro,Parrsboro,NS,Nova Scotia
+Kaleden,Kaleden,BC,British Columbia
+St. George's,St. George's,NL,Newfoundland and Labrador
+Fort Simpson,Fort Simpson,NT,Northwest Territories
+Akwesasne,Akwesasne,QC,Quebec
+L’Avenir,L'Avenir,QC,Quebec
+Ignace,Ignace,ON,Ontario
+Claremont,Claremont,ON,Ontario
+Teulon,Teulon,MB,Manitoba
+Peel,Peel,NB,New Brunswick
+Musquash,Musquash,NB,New Brunswick
+Notre-Dame-du-Portage,Notre-Dame-du-Portage,QC,Quebec
+St. Lawrence,St. Lawrence,NL,Newfoundland and Labrador
+Oxford,Oxford,NS,Nova Scotia
+Minto-Odanah,Minto-Odanah,MB,Manitoba
+St. Alban's,St. Alban's,NL,Newfoundland and Labrador
+Saint James,Saint James,NB,New Brunswick
+Saint-Norbert-d'Arthabaska,Saint-Norbert-d'Arthabaska,QC,Quebec
+Manning,Manning,AB,Alberta
+Glenella-Lansdowne,Glenella-Lansdowne,MB,Manitoba
+Saint-Hilarion,Saint-Hilarion,QC,Quebec
+Saint-Siméon,Saint-Simeon,QC,Quebec
+Saint-Barnabé,Saint-Barnabe,QC,Quebec
+Sainte-Félicité,Sainte-Felicite,QC,Quebec
+Two Borders,Two Borders,MB,Manitoba
+Queensbury,Queensbury,NB,New Brunswick
+Bury,Bury,QC,Quebec
+Lac-Bouchette,Lac-Bouchette,QC,Quebec
+Saint-Lazare-de-Bellechasse,Saint-Lazare-de-Bellechasse,QC,Quebec
+Saint-Michel-du-Squatec,Saint-Michel-du-Squatec,QC,Quebec
+Saint-Joachim-de-Shefford,Saint-Joachim-de-Shefford,QC,Quebec
+St-Pierre-Jolys,St-Pierre-Jolys,MB,Manitoba
+Grand-Remous,Grand-Remous,QC,Quebec
+Saint-Gabriel-de-Rimouski,Saint-Gabriel-de-Rimouski,QC,Quebec
+Armstrong,Armstrong,ON,Ontario
+Rogersville,Rogersville,NB,New Brunswick
+Langenburg,Langenburg,SK,Saskatchewan
+Sainte-Marie-Salomé,Sainte-Marie-Salome,QC,Quebec
+Moose Jaw No. 161,Moose Jaw No. 161,SK,Saskatchewan
+Saint-Cyprien,Saint-Cyprien,QC,Quebec
+Maidstone,Maidstone,SK,Saskatchewan
+Très-Saint-Sacrement,Tres-Saint-Sacrement,QC,Quebec
+Battle River No. 438,Battle River No. 438,SK,Saskatchewan
+Miltonvale Park,Miltonvale Park,PE,Prince Edward Island
+McAdam,McAdam,NB,New Brunswick
+Saints-Anges,Saints-Anges,QC,Quebec
+Saint-Urbain-Premier,Saint-Urbain-Premier,QC,Quebec
+Centreville-Wareham-Trinity,Centreville-Wareham-Trinity,NL,Newfoundland and Labrador
+Alberton,Alberton,PE,Prince Edward Island
+Winnipeg Beach,Winnipeg Beach,MB,Manitoba
+Sainte-Agathe-de-Lotbinière,Sainte-Agathe-de-Lotbiniere,QC,Quebec
+Salmo,Salmo,BC,British Columbia
+Kipling,Kipling,SK,Saskatchewan
+Sagamok,Sagamok,ON,Ontario
+Trécesson,Trecesson,QC,Quebec
+Tara,Tara,ON,Ontario
+Grande-Vallée,Grande-Vallee,QC,Quebec
+Bertrand,Bertrand,NB,New Brunswick
+Newcastle,Newcastle,NB,New Brunswick
+Mont-Carmel,Mont-Carmel,QC,Quebec
+Saint Martins,Saint Martins,NB,New Brunswick
+Saint-Eugène,Saint-Eugene,QC,Quebec
+Notre-Dame-des-Neiges,Notre-Dame-des-Neiges,QC,Quebec
+Saint-André,Saint-Andre,NB,New Brunswick
+Centreville,Centreville,NS,Nova Scotia
+Roland,Roland,MB,Manitoba
+Saint-Léon-de-Standon,Saint-Leon-de-Standon,QC,Quebec
+Saint-Modeste,Saint-Modeste,QC,Quebec
+Carnduff,Carnduff,SK,Saskatchewan
+Carling,Carling,ON,Ontario
+Eckville,Eckville,AB,Alberta
+Nain,Nain,NL,Newfoundland and Labrador
+Hillsburgh,Hillsburgh,ON,Ontario
+Foam Lake,Foam Lake,SK,Saskatchewan
+Sainte-Sabine,Sainte-Sabine,QC,Quebec
+Saint-Maxime-du-Mont-Louis,Saint-Maxime-du-Mont-Louis,QC,Quebec
+Blanc-Sablon,Blanc-Sablon,QC,Quebec
+Cobalt,Cobalt,ON,Ontario
+Gravelbourg,Gravelbourg,SK,Saskatchewan
+South River,South River,ON,Ontario
+Hudson Bay No. 394,Hudson Bay No. 394,SK,Saskatchewan
+McKellar,McKellar,ON,Ontario
+Frelighsburg,Frelighsburg,QC,Quebec
+Buffalo Narrows,Buffalo Narrows,SK,Saskatchewan
+Ayer’s Cliff,Ayer's Cliff,QC,Quebec
+Les Méchins,Les Mechins,QC,Quebec
+Sainte-Marguerite,Sainte-Marguerite,QC,Quebec
+Saint-Claude,Saint-Claude,QC,Quebec
+Air Ronge,Air Ronge,SK,Saskatchewan
+Chipman,Chipman,NB,New Brunswick
+Girardville,Girardville,QC,Quebec
+Saint-Bruno-de-Guigues,Saint-Bruno-de-Guigues,QC,Quebec
+Grenfell,Grenfell,SK,Saskatchewan
+Dorchester,Dorchester,NB,New Brunswick
+South Algonquin,South Algonquin,ON,Ontario
+Windermere,Windermere,BC,British Columbia
+Saint-Narcisse-de-Beaurivage,Saint-Narcisse-de-Beaurivage,QC,Quebec
+Saint-René-de-Matane,Saint-Rene-de-Matane,QC,Quebec
+Sainte-Jeanne-d'Arc,Sainte-Jeanne-d'Arc,QC,Quebec
+Plaisance,Plaisance,QC,Quebec
+Roxton-Sud,Roxton-Sud,QC,Quebec
+St. Louis No. 431,St. Louis No. 431,SK,Saskatchewan
+Youbou,Youbou,BC,British Columbia
+Duchess,Duchess,AB,Alberta
+Saint-Frédéric,Saint-Frederic,QC,Quebec
+Viking,Viking,AB,Alberta
+Sioux Narrows-Nestor Falls,Sioux Narrows-Nestor Falls,ON,Ontario
+Whitecourt,Whitecourt,AB,Alberta
+Repulse Bay,Repulse Bay,NU,Nunavut
+Montréal-Est,Montreal-Est,QC,Quebec
+King,King,ON,Ontario
+Regina Beach,Regina Beach,SK,Saskatchewan
+Saint-Patrice-de-Beaurivage,Saint-Patrice-de-Beaurivage,QC,Quebec
+Ootischenia,Ootischenia,BC,British Columbia
+Hensall,Hensall,ON,Ontario
+Bentley,Bentley,AB,Alberta
+Durham,Durham,NB,New Brunswick
+Sainte-Marthe,Sainte-Marthe,QC,Quebec
+Notre-Dame-du-Nord,Notre-Dame-du-Nord,QC,Quebec
+Pinehouse,Pinehouse,SK,Saskatchewan
+Saint-Aimé-des-Lacs,Saint-Aime-des-Lacs,QC,Quebec
+Lac-Drolet,Lac-Drolet,QC,Quebec
+Preeceville,Preeceville,SK,Saskatchewan
+Maple Creek No. 111,Maple Creek No. 111,SK,Saskatchewan
+Harbour Main-Chapel's Cove-Lakeview,Harbour Main-Chapel's Cove-Lakeview,NL,Newfoundland and Labrador
+Saint-Wenceslas,Saint-Wenceslas,QC,Quebec
+Weyburn No. 67,Weyburn No. 67,SK,Saskatchewan
+Birch Hills,Birch Hills,SK,Saskatchewan
+Wedgeport,Wedgeport,NS,Nova Scotia
+Kerrobert,Kerrobert,SK,Saskatchewan
+Havelock,Havelock,NB,New Brunswick
+Eston,Eston,SK,Saskatchewan
+Sainte-Geneviève-de-Batiscan,Sainte-Genevieve-de-Batiscan,QC,Quebec
+Saint-Justin,Saint-Justin,QC,Quebec
+Saint-Norbert,Saint-Norbert,QC,Quebec
+Schreiber,Schreiber,ON,Ontario
+Trochu,Trochu,AB,Alberta
+Botsford,Botsford,NB,New Brunswick
+Riviere-Ouelle,Riviere-Ouelle,QC,Quebec
+Greenwich,Greenwich,NB,New Brunswick
+Stukely-Sud,Stukely-Sud,QC,Quebec
+Saint-Georges-de-Clarenceville,Saint-Georges-de-Clarenceville,QC,Quebec
+Sainte-Thérèse-de-Gaspé,Sainte-Therese-de-Gaspe,QC,Quebec
+Beachburg,Beachburg,ON,Ontario
+Desbiens,Desbiens,QC,Quebec
+Clyde River,Clyde River,NU,Nunavut
+La Macaza,La Macaza,QC,Quebec
+Souris,Souris,PE,Prince Edward Island
+Kindersley No. 290,Kindersley No. 290,SK,Saskatchewan
+Laird,Laird,ON,Ontario
+Falher,Falher,AB,Alberta
+Saint-Vallier,Saint-Vallier,QC,Quebec
+Coleraine,Coleraine,QC,Quebec
+Melita,Melita,MB,Manitoba
+Noonan,Noonan,NB,New Brunswick
+Sainte-Pétronille,Sainte-Petronille,QC,Quebec
+Delisle,Delisle,SK,Saskatchewan
+Bristol,Bristol,QC,Quebec
+Mahone Bay,Mahone Bay,NS,Nova Scotia
+Waldheim,Waldheim,SK,Saskatchewan
+Saint-Sylvestre,Saint-Sylvestre,QC,Quebec
+Taloyoak,Taloyoak,NU,Nunavut
+Onoway,Onoway,AB,Alberta
+Saint-Stanislas,Saint-Stanislas,QC,Quebec
+Malpeque,Malpeque,PE,Prince Edward Island
+Plantagenet,Plantagenet,ON,Ontario
+Longue-Rive,Longue-Rive,QC,Quebec
+Argyle,Argyle,MB,Manitoba
+Davidson,Davidson,SK,Saskatchewan
+Plaster Rock,Plaster Rock,NB,New Brunswick
+Wilmot,Wilmot,NB,New Brunswick
+Valemount,Valemount,BC,British Columbia
+Saint-Léonard-de-Portneuf,Saint-Leonard-de-Portneuf,QC,Quebec
+Alberta Beach,Alberta Beach,AB,Alberta
+Saint-Narcisse-de-Rimouski,Saint-Narcisse-de-Rimouski,QC,Quebec
+Saint-Bonaventure,Saint-Bonaventure,QC,Quebec
+Longlaketon No. 219,Longlaketon No. 219,SK,Saskatchewan
+Papineau-Cameron,Papineau-Cameron,ON,Ontario
+Assiginack,Assiginack,ON,Ontario
+Brébeuf,Brebeuf,QC,Quebec
+Hudson Hope,Hudson Hope,BC,British Columbia
+Prince,Prince,ON,Ontario
+Baie-du-Febvre,Baie-du-Febvre,QC,Quebec
+Durham-Sud,Durham-Sud,QC,Quebec
+Melbourne,Melbourne,QC,Quebec
+Nipawin No. 487,Nipawin No. 487,SK,Saskatchewan
+Duck Lake No. 463,Duck Lake No. 463,SK,Saskatchewan
+Oyen,Oyen,AB,Alberta
